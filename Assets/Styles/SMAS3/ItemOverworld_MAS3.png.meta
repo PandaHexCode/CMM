@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 7ab12d572eb14064bb0d511659766ae4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4037370341369416572
+    second: ItemOverworld_MAS3_0
+  - first:
+      213: -6052195698584757497
+    second: ItemOverworld_MAS3_1
+  - first:
+      213: -7033006441998123400
+    second: ItemOverworld_MAS3_2
+  - first:
+      213: 2503295257567226261
+    second: ItemOverworld_MAS3_3
+  - first:
+      213: -7787407625317109948
+    second: ItemOverworld_MAS3_4
+  - first:
+      213: -753924343921544253
+    second: ItemOverworld_MAS3_5
+  - first:
+      213: 6944805475413006512
+    second: ItemOverworld_MAS3_6
+  - first:
+      213: -4159757907412441988
+    second: ItemOverworld_MAS3_7
+  - first:
+      213: -2946717469413573100
+    second: ItemOverworld_MAS3_8
+  - first:
+      213: -2480812787333083782
+    second: ItemOverworld_MAS3_9
+  - first:
+      213: 1425036425201980081
+    second: ItemOverworld_MAS3_10
+  - first:
+      213: 2986270326112642805
+    second: ItemOverworld_MAS3_11
+  - first:
+      213: 5700198184590830519
+    second: ItemOverworld_MAS3_12
+  - first:
+      213: -7068732556929720432
+    second: ItemOverworld_MAS3_13
+  - first:
+      213: 7020566563638806213
+    second: ItemOverworld_MAS3_14
+  - first:
+      213: -2213684762676908536
+    second: ItemOverworld_MAS3_15
+  - first:
+      213: 7268886478237660568
+    second: ItemOverworld_MAS3_16
+  - first:
+      213: -1865186755535076359
+    second: ItemOverworld_MAS3_17
+  - first:
+      213: 3793593312995200868
+    second: ItemOverworld_MAS3_18
+  - first:
+      213: 5863434938176743484
+    second: ItemOverworld_MAS3_19
+  - first:
+      213: 3569980451758042531
+    second: ItemOverworld_MAS3_20
+  - first:
+      213: -4694287610579278245
+    second: ItemOverworld_MAS3_21
+  - first:
+      213: -9190323125466171167
+    second: ItemOverworld_MAS3_22
+  - first:
+      213: 2708888391040238329
+    second: ItemOverworld_MAS3_23
+  - first:
+      213: -3275546899423840083
+    second: ItemOverworld_MAS3_24
+  - first:
+      213: -5421598963521333867
+    second: ItemOverworld_MAS3_25
+  - first:
+      213: -4945306101368239204
+    second: ItemOverworld_MAS3_26
+  - first:
+      213: 5131452005608887111
+    second: ItemOverworld_MAS3_27
+  - first:
+      213: -8058836513825756778
+    second: ItemOverworld_MAS3_28
+  - first:
+      213: 6802714845654071058
+    second: ItemOverworld_MAS3_29
+  - first:
+      213: -6121620663620033243
+    second: ItemOverworld_MAS3_30
+  - first:
+      213: 9185557048342648619
+    second: ItemOverworld_MAS3_31
+  - first:
+      213: 7785289082947796574
+    second: ItemOverworld_MAS3_32
+  - first:
+      213: -4541127752147763539
+    second: ItemOverworld_MAS3_0
+  - first:
+      213: 1247443029383198248
+    second: ItemOverworld_MAS3_1
+  - first:
+      213: -5297931248971531124
+    second: ItemOverworld_MAS3_2
+  - first:
+      213: -3819932201682657296
+    second: ItemOverworld_MAS3_3
+  - first:
+      213: 8424216777176113191
+    second: ItemOverworld_MAS3_4
+  - first:
+      213: -2648056965285319505
+    second: ItemOverworld_MAS3_5
+  - first:
+      213: 1192040114232226499
+    second: ItemOverworld_MAS3_6
+  - first:
+      213: -3233621270477061244
+    second: ItemOverworld_MAS3_7
+  - first:
+      213: -3793153686061232449
+    second: ItemOverworld_MAS3_8
+  - first:
+      213: 4943908684199707307
+    second: ItemOverworld_MAS3_9
+  - first:
+      213: 2671020664750170905
+    second: ItemOverworld_MAS3_10
+  - first:
+      213: -347122934828496745
+    second: ItemOverworld_MAS3_11
+  - first:
+      213: 2498217617954824472
+    second: ItemOverworld_MAS3_12
+  - first:
+      213: 3738339528537060692
+    second: ItemOverworld_MAS3_13
+  - first:
+      213: -1307522370525404045
+    second: ItemOverworld_MAS3_14
+  - first:
+      213: 4287418788346931014
+    second: ItemOverworld_MAS3_15
+  - first:
+      213: -8942081428985027408
+    second: ItemOverworld_MAS3_16
+  - first:
+      213: -8169745773629646578
+    second: ItemOverworld_MAS3_17
+  - first:
+      213: 1613548821979764056
+    second: ItemOverworld_MAS3_18
+  - first:
+      213: 6842973585080855931
+    second: ItemOverworld_MAS3_19
+  - first:
+      213: -5649861235016157184
+    second: ItemOverworld_MAS3_20
+  - first:
+      213: 4320366572528209265
+    second: ItemOverworld_MAS3_21
+  - first:
+      213: 3825765269051174674
+    second: ItemOverworld_MAS3_22
+  - first:
+      213: -2119362764788562681
+    second: ItemOverworld_MAS3_23
+  - first:
+      213: 7526050720738702155
+    second: ItemOverworld_MAS3_24
+  - first:
+      213: -5538914906647414912
+    second: ItemOverworld_MAS3_25
+  - first:
+      213: 6918642012007269480
+    second: ItemOverworld_MAS3_26
+  - first:
+      213: 8555393955328728974
+    second: ItemOverworld_MAS3_27
+  - first:
+      213: -8522179871871068370
+    second: ItemOverworld_MAS3_28
+  - first:
+      213: 2101281491400473622
+    second: ItemOverworld_MAS3_29
+  - first:
+      213: -4402919696040964231
+    second: ItemOverworld_MAS3_30
+  - first:
+      213: 7347388509984002349
+    second: ItemOverworld_MAS3_31
+  - first:
+      213: 1741183663896506976
+    second: ItemOverworld_MAS3_32
+  - first:
+      213: 2599219586090184051
+    second: ItemOverworld_MAS3_33
+  - first:
+      213: -6221972656923879628
+    second: ItemOverworld_MAS3_34
+  - first:
+      213: -5606834075361086347
+    second: ItemOverworld_MAS3_35
+  - first:
+      213: -4029500451660839050
+    second: ItemOverworld_MAS3_36
+  - first:
+      213: 3792588724597614321
+    second: ItemOverworld_MAS3_33
+  - first:
+      213: 485984597932506054
+    second: ItemOverworld_MAS3_34
+  - first:
+      213: -2567379975213397264
+    second: ItemOverworld_MAS3_35
+  - first:
+      213: -982772541209081232
+    second: ItemOverworld_MAS3_37
+  - first:
+      213: 2275980644121385657
+    second: ItemOverworld_MAS3_38
+  - first:
+      213: -2643916379732965346
+    second: ItemOverworld_MAS3_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f3de0b2afa8010800000000000000
+      internalID: 1192040114232226499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4834113469edf13d0800000000000000
+      internalID: -3233621270477061244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe4bdbc1d20c5bc0800000000000000
+      internalID: -3793153686061232449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba241bb11ca4c9440800000000000000
+      internalID: 4943908684199707307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9136926942f511520800000000000000
+      internalID: 2671020664750170905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7980828a785ce2bf0800000000000000
+      internalID: -347122934828496745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811e1d9ffa37ba220800000000000000
+      internalID: 2498217617954824472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b040aeff31e330800000000000000
+      internalID: 3738339528537060692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374e4f0e45fbadde0800000000000000
+      internalID: -1307522370525404045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64721ca1ca8ff7b30800000000000000
+      internalID: 4287418788346931014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4eab8415857e380800000000000000
+      internalID: -8942081428985027408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e095e89018b3f9e80800000000000000
+      internalID: -8169745773629646578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8559ad9ca1a746610800000000000000
+      internalID: 1613548821979764056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d2022583027fe50800000000000000
+      internalID: 6842973585080855931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008bc981429a791b0800000000000000
+      internalID: -5649861235016157184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d0407e18605fb30800000000000000
+      internalID: 4320366572528209265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f62df0e39d71530800000000000000
+      internalID: 3825765269051174674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70586965bc28692e0800000000000000
+      internalID: -2119362764788562681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43f33b7147e17860800000000000000
+      internalID: 7526050720738702155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0873a242d32d123b0800000000000000
+      internalID: -5538914906647414912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86489cdd044f30060800000000000000
+      internalID: 6918642012007269480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f94e4597ddab670800000000000000
+      internalID: 8555393955328728974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2714291f822bb980800000000000000
+      internalID: -8522179871871068370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c37042260492d10800000000000000
+      internalID: 2101281491400473622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f48e63ddfa5e2c0800000000000000
+      internalID: -4402919696040964231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d211264fbea27f560800000000000000
+      internalID: 7347388509984002349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062b34f215de92810800000000000000
+      internalID: 1741183663896506976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6eaccd95bf1a430800000000000000
+      internalID: 3792588724597614321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbf31eba609eb600800000000000000
+      internalID: 485984597932506054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa44fdd385de5cd0800000000000000
+      internalID: -2567379975213397264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847affb01168f7c0800000000000000
+      internalID: -4037370341369416572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b55baf318420ca0800000000000000
+      internalID: -6052195698584757497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87efaa947edb56e90800000000000000
+      internalID: -7033006441998123400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e63316cd7db220800000000000000
+      internalID: 2503295257567226261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f2ec336029de390800000000000000
+      internalID: -7787407625317109948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3790dbdc58985f0800000000000000
+      internalID: -753924343921544253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677ca7c30b65418c0800000000000000
+      internalID: -4029500451660839050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a893aa49d7c52f0800000000000000
+      internalID: -982772541209081232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba15805658e59f10800000000000000
+      internalID: 2275980644121385657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemOverworld_MAS3_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180e2a8f0cee4bd0800000000000000
+      internalID: -2643916379732965346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

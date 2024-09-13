@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: aea6f98b9a892314a9f42c604e6f2b4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1996267955483854257
+    second: Marioprobeller_0
+  - first:
+      213: -3960980293849592089
+    second: Marioprobeller_1
+  - first:
+      213: 4562580915047330837
+    second: Marioprobeller_2
+  - first:
+      213: 9057832743918416436
+    second: Marioprobeller_3
+  - first:
+      213: -4387622888879459925
+    second: Marioprobeller_4
+  - first:
+      213: 2792692253746852451
+    second: Marioprobeller_5
+  - first:
+      213: 8592084215375189591
+    second: Marioprobeller_6
+  - first:
+      213: -2292793977067477216
+    second: Marioprobeller_7
+  - first:
+      213: 8747971931233978441
+    second: Marioprobeller_8
+  - first:
+      213: 784613409696715537
+    second: Marioprobeller_9
+  - first:
+      213: -2772866393164871880
+    second: Marioprobeller_10
+  - first:
+      213: 1245387795365837423
+    second: Marioprobeller_11
+  - first:
+      213: -8415677674221021976
+    second: Marioprobeller_12
+  - first:
+      213: 4068924967524595281
+    second: Marioprobeller_13
+  - first:
+      213: -2308795648506477054
+    second: Marioprobeller_14
+  - first:
+      213: -6270354492116054077
+    second: Marioprobeller_15
+  - first:
+      213: -904307500448618394
+    second: Marioprobeller_16
+  - first:
+      213: -6508502897887154559
+    second: Marioprobeller_17
+  - first:
+      213: -6806460248763716057
+    second: Marioprobeller_18
+  - first:
+      213: 6205159877281597590
+    second: Marioprobeller_19
+  - first:
+      213: -5129907068030772455
+    second: Marioprobeller_20
+  - first:
+      213: 152958115829798326
+    second: Marioprobeller_21
+  - first:
+      213: -5415328762052639845
+    second: Marioprobeller_22
+  - first:
+      213: -7530232254541223377
+    second: Marioprobeller_23
+  - first:
+      213: -6167357577357855090
+    second: Marioprobeller_24
+  - first:
+      213: -8975154422835850678
+    second: Marioprobeller_25
+  - first:
+      213: 2217556351552406805
+    second: Marioprobeller_26
+  - first:
+      213: -8432846278747420137
+    second: Marioprobeller_27
+  - first:
+      213: -6863593877927620182
+    second: Marioprobeller_28
+  - first:
+      213: -882709349835180355
+    second: Marioprobeller_29
+  - first:
+      213: -505260678065965795
+    second: Marioprobeller_30
+  - first:
+      213: -1673341674836684221
+    second: Marioprobeller_31
+  - first:
+      213: 8962696763187168504
+    second: Marioprobeller_32
+  - first:
+      213: -1431992701960574078
+    second: Marioprobeller_33
+  - first:
+      213: 1577842592782649611
+    second: Marioprobeller_34
+  - first:
+      213: -7015718300600398862
+    second: Marioprobeller_35
+  - first:
+      213: 8720883430987970045
+    second: Marioprobeller_36
+  - first:
+      213: 1233213197481119280
+    second: Marioprobeller_37
+  - first:
+      213: -2479709934163578277
+    second: Marioprobeller_38
+  - first:
+      213: 4325344731682644948
+    second: Marioprobeller_39
+  - first:
+      213: 1138111767925170575
+    second: Marioprobeller_40
+  - first:
+      213: 6511296053807949165
+    second: Marioprobeller_41
+  - first:
+      213: 1983669579338493801
+    second: Marioprobeller_42
+  - first:
+      213: 2672858831123714918
+    second: Marioprobeller_43
+  - first:
+      213: 2782413919912620055
+    second: Marioprobeller_44
+  - first:
+      213: -1334411154617071561
+    second: Marioprobeller_45
+  - first:
+      213: -1406058378423096255
+    second: Marioprobeller_46
+  - first:
+      213: 8774420830803157686
+    second: Marioprobeller_47
+  - first:
+      213: 2650545275786909318
+    second: Marioprobeller_48
+  - first:
+      213: -1074252847831146634
+    second: Marioprobeller_49
+  - first:
+      213: 5153639083966425146
+    second: Marioprobeller_50
+  - first:
+      213: -6416646861994192659
+    second: Marioprobeller_51
+  - first:
+      213: -8507694313474967196
+    second: Marioprobeller_52
+  - first:
+      213: -8250815720858262059
+    second: Marioprobeller_53
+  - first:
+      213: -3063410952956869917
+    second: Marioprobeller_54
+  - first:
+      213: -3321709947645131595
+    second: Marioprobeller_55
+  - first:
+      213: -5855465742926780401
+    second: Marioprobeller_56
+  - first:
+      213: 8872175058089142014
+    second: Marioprobeller_57
+  - first:
+      213: -994516264270846798
+    second: Marioprobeller_58
+  - first:
+      213: 7622349032272593845
+    second: Marioprobeller_59
+  - first:
+      213: -7430523892214846668
+    second: Marioprobeller_60
+  - first:
+      213: -5069097482538027661
+    second: Marioprobeller_61
+  - first:
+      213: 2358579463833493063
+    second: Marioprobeller_62
+  - first:
+      213: 8521714698996866593
+    second: Marioprobeller_63
+  - first:
+      213: 7086384853779922495
+    second: Marioprobeller_64
+  - first:
+      213: -6548444242177386239
+    second: Marioprobeller_65
+  - first:
+      213: -2339066354440047286
+    second: Marioprobeller_66
+  - first:
+      213: 8959364767968738290
+    second: Marioprobeller_67
+  - first:
+      213: 660722502464369813
+    second: Marioprobeller_68
+  - first:
+      213: 6707185442578340920
+    second: Marioprobeller_69
+  - first:
+      213: 7549279194536224235
+    second: Marioprobeller_70
+  - first:
+      213: 5360980063097353737
+    second: Marioprobeller_71
+  - first:
+      213: -103308990997577321
+    second: Marioprobeller_72
+  - first:
+      213: -4721986816493753284
+    second: Marioprobeller_73
+  - first:
+      213: -4941330566336436435
+    second: Marioprobeller_74
+  - first:
+      213: 1574814608612202014
+    second: Marioprobeller_75
+  - first:
+      213: -5443590184147997266
+    second: Marioprobeller_76
+  - first:
+      213: 1243630487036824581
+    second: Marioprobeller_77
+  - first:
+      213: 8895517447691288108
+    second: Marioprobeller_78
+  - first:
+      213: 8384252387583234062
+    second: Marioprobeller_79
+  - first:
+      213: 656796848777934236
+    second: Marioprobeller_80
+  - first:
+      213: 1701513132987186705
+    second: Marioprobeller_81
+  - first:
+      213: 8447771166631863792
+    second: Marioprobeller_82
+  - first:
+      213: -5896373733834755729
+    second: Marioprobeller_83
+  - first:
+      213: -7138038457453363074
+    second: Marioprobeller_84
+  - first:
+      213: -3941972078216291969
+    second: Marioprobeller_85
+  - first:
+      213: 1437626339214103240
+    second: Marioprobeller_86
+  - first:
+      213: 4354281795410563474
+    second: Marioprobeller_87
+  - first:
+      213: 7873045903615669674
+    second: Marioprobeller_88
+  - first:
+      213: -2072240789753395404
+    second: Marioprobeller_89
+  - first:
+      213: 1417808840732696798
+    second: Marioprobeller_90
+  - first:
+      213: -5908697509703237540
+    second: Marioprobeller_91
+  - first:
+      213: -4691217965270189406
+    second: Marioprobeller_92
+  - first:
+      213: -4454153680129417135
+    second: Marioprobeller_93
+  - first:
+      213: -405265102924659641
+    second: Marioprobeller_94
+  - first:
+      213: -4810508711731191668
+    second: Marioprobeller_95
+  - first:
+      213: -3264003705110501388
+    second: Marioprobeller_96
+  - first:
+      213: 4069621871056130177
+    second: Marioprobeller_97
+  - first:
+      213: 6278506904843966577
+    second: Marioprobeller_98
+  - first:
+      213: -2753668411371701874
+    second: Marioprobeller_99
+  - first:
+      213: 3427058764707318087
+    second: Marioprobeller_100
+  - first:
+      213: -1190367930769214785
+    second: Marioprobeller_101
+  - first:
+      213: 6963104403616918783
+    second: Marioprobeller_102
+  - first:
+      213: 766136109474979248
+    second: Marioprobeller_103
+  - first:
+      213: 4147421572695428045
+    second: Marioprobeller_104
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marioprobeller_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 15
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab3e40fd4db44e0800000000000000
+      internalID: -1996267955483854257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 17
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eec5cea865c709c0800000000000000
+      internalID: -3960980293849592089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5147f5c2b2b815f30800000000000000
+      internalID: 4562580915047330837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 67
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b820e3e2e3bd70800000000000000
+      internalID: 9057832743918416436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1
+        width: 18
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba177fbaa380c13c0800000000000000
+      internalID: -4387622888879459925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 67
+        width: 17
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f097fec2a1c620800000000000000
+      internalID: 2792692253746852451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 67
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756dda132173d3770800000000000000
+      internalID: 8592084215375189591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027ecbd860c5e20e0800000000000000
+      internalID: -2292793977067477216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 67
+        width: 15
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9480a4a6f1a076970800000000000000
+      internalID: 8747971931233978441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 67
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1131bf23db183ea00800000000000000
+      internalID: 784613409696715537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 67
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8370ac9e4bcc489d0800000000000000
+      internalID: -2772866393164871880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 67
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a336ef991884110800000000000000
+      internalID: 1245387795365837423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 67
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4ded35eb1853b80800000000000000
+      internalID: -8415677674221021976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156750b23b9b77830800000000000000
+      internalID: 4068924967524595281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 67
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206cdc7179285ffd0800000000000000
+      internalID: -2308795648506477054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfc5a9afc93bf8a0800000000000000
+      internalID: -6270354492116054077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 67
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e90c9e114373f0800000000000000
+      internalID: -904307500448618394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 67
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee5df09172da5a0800000000000000
+      internalID: -6508502897887154559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e2f9647789a81a0800000000000000
+      internalID: -6806460248763716057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 34
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69840e338082d1650800000000000000
+      internalID: 6205159877281597590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 33
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b924773b8eec8b0800000000000000
+      internalID: -5129907068030772455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 34
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b55c8f889a6f1200800000000000000
+      internalID: 152958115829798326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 34
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9385ebbe23e8d4b0800000000000000
+      internalID: -5415328762052639845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa1ef49ad3f7790800000000000000
+      internalID: -7530232254541223377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 34
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8675ce95f4296aa0800000000000000
+      internalID: -6167357577357855090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 34
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d796da98d17380800000000000000
+      internalID: -8975154422835850678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 33
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51541bba0c756ce10800000000000000
+      internalID: 2217556351552406805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 34
+        width: 15
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a09c51df288fa80800000000000000
+      internalID: -8432846278747420137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 34
+        width: 16
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1149f9bbd9fb0a0800000000000000
+      internalID: -6863593877927620182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 34
+        width: 15
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6782be58cffb3f0800000000000000
+      internalID: -882709349835180355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 33
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15b7ec1714fcf8f0800000000000000
+      internalID: -505260678065965795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342908bcc9817c8e0800000000000000
+      internalID: -1673341674836684221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 33
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4805f3835e16c70800000000000000
+      internalID: 8962696763187168504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_33
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 16
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b20be793a802ce0800000000000000
+      internalID: -1431992701960574078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b098a467a7f95e510800000000000000
+      internalID: 1577842592782649611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 33
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb8180606923ae90800000000000000
+      internalID: -7015718300600398862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioprobeller_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 33
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5b0a7764dc60970800000000000000
+      internalID: 8720883430987970045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: af8ab154562fc074388bceec64b08296
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

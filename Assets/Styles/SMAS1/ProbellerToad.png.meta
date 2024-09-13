@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: a7c9c9c5bc8f38c4b9f239877baddcc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7708915826987495286
+    second: BigToad_0
+  - first:
+      213: 9045635276214620283
+    second: BigToad_1
+  - first:
+      213: -3533499624918553606
+    second: BigToad_2
+  - first:
+      213: 1962268394875714767
+    second: BigToad_3
+  - first:
+      213: 8007561888143446744
+    second: BigToad_4
+  - first:
+      213: -3764364040938588442
+    second: BigToad_5
+  - first:
+      213: 8197824434173882963
+    second: BigToad_6
+  - first:
+      213: -2990070841867806612
+    second: BigToad_7
+  - first:
+      213: -7787455328558903292
+    second: BigToad_8
+  - first:
+      213: -7558307164388364730
+    second: BigToad_9
+  - first:
+      213: -286953782772690894
+    second: BigToad_10
+  - first:
+      213: -1398291919007861683
+    second: BigToad_11
+  - first:
+      213: 3613859461971800669
+    second: BigToad_12
+  - first:
+      213: -2537148086025722517
+    second: BigToad_13
+  - first:
+      213: 3032244483560626984
+    second: BigToad_14
+  - first:
+      213: -7898229033283866241
+    second: BigToad_15
+  - first:
+      213: 4979424778988018243
+    second: BigToad_16
+  - first:
+      213: -1044996862853705723
+    second: BigToad_17
+  - first:
+      213: 2814193190147973910
+    second: BigToad_18
+  - first:
+      213: -1305207979121441708
+    second: BigToad_19
+  - first:
+      213: 6622340559987238137
+    second: BigToad_20
+  - first:
+      213: 1267957567737694496
+    second: BigToad_21
+  - first:
+      213: 8521356771778812955
+    second: BigToad_22
+  - first:
+      213: -4471310216360587112
+    second: BigToad_23
+  - first:
+      213: -3567719350115894881
+    second: BigToad_24
+  - first:
+      213: -4477361755886737217
+    second: BigToad_25
+  - first:
+      213: 1902678406282127006
+    second: BigToad_26
+  - first:
+      213: 8415505825634207606
+    second: BigToad_27
+  - first:
+      213: 3470449093132113215
+    second: BigToad_28
+  - first:
+      213: -2842290048843949473
+    second: BigToad_29
+  - first:
+      213: 136301503293830514
+    second: BigToad_30
+  - first:
+      213: 5911230180312621176
+    second: BigToad_31
+  - first:
+      213: -2180990607207849224
+    second: BigToad_32
+  - first:
+      213: 937191531535701583
+    second: BigToad_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigToad_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fe9fed9129bfa60800000000000000
+      internalID: 7708915826987495286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70d38e9b5d888d70800000000000000
+      internalID: 9045635276214620283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe0caffcc76fec0800000000000000
+      internalID: -3533499624918553606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccfa8665b06b3b10800000000000000
+      internalID: 1962268394875714767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d21fb38c13902f60800000000000000
+      internalID: 8007561888143446744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6f99669da42cbc0800000000000000
+      internalID: -3764364040938588442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352b3f193e584c170800000000000000
+      internalID: 8197824434173882963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68573159622186d0800000000000000
+      internalID: -2990070841867806612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 18
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400160d63a66de390800000000000000
+      internalID: -7787455328558903292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e675bfdaf7b1790800000000000000
+      internalID: -7558307164388364730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23011ee0e09840cf0800000000000000
+      internalID: -286953782772690894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44bc3b78e4489ce0800000000000000
+      internalID: -1398291919007861683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 3
+        width: 16
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52730b9802072230800000000000000
+      internalID: 3613859461971800669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65efd5124d3accd0800000000000000
+      internalID: -2537148086025722517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd4c2da42b41a20800000000000000
+      internalID: 3032244483560626984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7130747a8ad36290800000000000000
+      internalID: -7898229033283866241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_16
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34adb5154787a1540800000000000000
+      internalID: 4979424778988018243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigToad_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500153ec3ec6f71f0800000000000000
+      internalID: -1044996862853705723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,940 @@
+fileFormatVersion: 2
+guid: 5bae9f42684c7404187a7bd511fd5e07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4631641477635956311
+    second: SmallMario_0
+  - first:
+      213: 4125614927182793665
+    second: SmallMario_1
+  - first:
+      213: -8608894045619873119
+    second: SmallMario_2
+  - first:
+      213: -8164256142862466224
+    second: SmallMario_3
+  - first:
+      213: 2701194288024415295
+    second: SmallMario_4
+  - first:
+      213: 6192447214869025795
+    second: SmallMario_5
+  - first:
+      213: 527785346298508166
+    second: SmallMario_6
+  - first:
+      213: -2602571119460473524
+    second: SmallMario_7
+  - first:
+      213: -7602173352540682277
+    second: SmallMario_8
+  - first:
+      213: 2077831085283164758
+    second: SmallMario_9
+  - first:
+      213: -2546728239807835311
+    second: SmallMario_10
+  - first:
+      213: -4956649769459516138
+    second: SmallMario_11
+  - first:
+      213: -6048267466638925361
+    second: SmallMario_12
+  - first:
+      213: 7491955532714154595
+    second: SmallMario_13
+  - first:
+      213: -6078586225783624148
+    second: SmallMario_14
+  - first:
+      213: 7055343350544274399
+    second: SmallMario_15
+  - first:
+      213: 4930436293838401814
+    second: SmallMario_16
+  - first:
+      213: -2209434152691134051
+    second: SmallMario_17
+  - first:
+      213: -503538902968884194
+    second: SmallMario_18
+  - first:
+      213: -2888943311223882209
+    second: SmallMario_19
+  - first:
+      213: -6718455846047310105
+    second: SmallMario_20
+  - first:
+      213: -6203240469759478142
+    second: SmallMario_21
+  - first:
+      213: 23003896922260154
+    second: SmallMario_22
+  - first:
+      213: 4086054751385467818
+    second: SmallMario_23
+  - first:
+      213: 6627193588658326672
+    second: SmallMario_24
+  - first:
+      213: -3170788993685274973
+    second: SmallMario_25
+  - first:
+      213: -3168587686446216183
+    second: SmallMario_26
+  - first:
+      213: -2035384257297815744
+    second: SmallMario_27
+  - first:
+      213: 3930273455524255002
+    second: SmallMario_28
+  - first:
+      213: -7045931880220351682
+    second: SmallMario_0
+  - first:
+      213: 6043205045759195883
+    second: SmallMario_1
+  - first:
+      213: 7642299514718835004
+    second: SmallMario_2
+  - first:
+      213: -8240687153351445850
+    second: SmallMario_3
+  - first:
+      213: 1761193652374454846
+    second: SmallMario_4
+  - first:
+      213: -4284674123086530202
+    second: SmallMario_5
+  - first:
+      213: 3713118061617383327
+    second: SmallMario_6
+  - first:
+      213: 4118575003272374733
+    second: SmallMario_7
+  - first:
+      213: 1388090812183437094
+    second: SmallMario_8
+  - first:
+      213: 6421355148264784690
+    second: SmallMario_9
+  - first:
+      213: 6490373760285575258
+    second: SmallMario_10
+  - first:
+      213: 1660874069609341770
+    second: SmallMario_11
+  - first:
+      213: 3571319403900846058
+    second: SmallMario_12
+  - first:
+      213: -834539477498785184
+    second: SmallMario_13
+  - first:
+      213: 3030513604459077123
+    second: SmallMario_14
+  - first:
+      213: -504037007547372121
+    second: SmallMario_15
+  - first:
+      213: -8102406823913330481
+    second: SmallMario_16
+  - first:
+      213: 5198711019525090036
+    second: SmallMario_17
+  - first:
+      213: 1110393032174962543
+    second: SmallMario_18
+  - first:
+      213: 4918525115401608720
+    second: SmallMario_19
+  - first:
+      213: -37376551352935596
+    second: SmallMario_20
+  - first:
+      213: 1167006040944458942
+    second: SmallMario_21
+  - first:
+      213: 6365474691508647491
+    second: SmallMario_22
+  - first:
+      213: 8287283901419579012
+    second: SmallMario_23
+  - first:
+      213: 6061581709084514602
+    second: SmallMario_24
+  - first:
+      213: -6461376075319668764
+    second: SmallMario_25
+  - first:
+      213: 7441745052163789533
+    second: SmallMario_26
+  - first:
+      213: -7310194797292147819
+    second: SmallMario_27
+  - first:
+      213: -7962082386546720779
+    second: SmallMario_28
+  - first:
+      213: 8718545577302888328
+    second: SmallMario_29
+  - first:
+      213: -4508191756272897819
+    second: SmallMario_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallMario_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33addf2942d73e90800000000000000
+      internalID: -7045931880220351682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea335988f6cdd350800000000000000
+      internalID: 6043205045759195883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d4f10be6ee0a60800000000000000
+      internalID: 7642299514718835004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2bc5fe1b233ad80800000000000000
+      internalID: -8240687153351445850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32c37eab44017810800000000000000
+      internalID: 1761193652374454846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6697e131697c984c0800000000000000
+      internalID: -4284674123086530202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f978acf3435a78330800000000000000
+      internalID: 3713118061617383327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc96ad2f42e182930800000000000000
+      internalID: 4118575003272374733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5d204d3d734310800000000000000
+      internalID: 1388090812183437094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c2fc4c7c3d1950800000000000000
+      internalID: 6421355148264784690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5886592c80721a50800000000000000
+      internalID: 6490373760285575258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43e8b7aa2c9c0710800000000000000
+      internalID: 1660874069609341770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef38f08310ef8130800000000000000
+      internalID: 3571319403900846058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06215ac44ce1b64f0800000000000000
+      internalID: -834539477498785184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e95c0211c8e0a20800000000000000
+      internalID: 3030513604459077123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adec7b130d4109f0800000000000000
+      internalID: -504037007547372121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e1fa0ce77e8f80800000000000000
+      internalID: -8102406823913330481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa3b8d028852840800000000000000
+      internalID: 5198711019525090036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678bd36498e86f00800000000000000
+      internalID: 1110393032174962543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e9952788c124440800000000000000
+      internalID: 4918525115401608720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bddad79363b7ff0800000000000000
+      internalID: -37376551352935596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcba39afc9023010800000000000000
+      internalID: 1167006040944458942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346bc169185b65850800000000000000
+      internalID: 6365474691508647491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4866de8ecc8520370800000000000000
+      internalID: 8287283901419579012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29dcf2e2701f1450800000000000000
+      internalID: 6061581709084514602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef0d5e71b49456a0800000000000000
+      internalID: -6461376075319668764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd25e3762b3664760800000000000000
+      internalID: 7441745052163789533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b2e7c1098fc8a90800000000000000
+      internalID: -7310194797292147819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fffc7d1140018190800000000000000
+      internalID: -7962082386546720779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallMario_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f013d720f7ef870800000000000000
+      internalID: 8718545577302888328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

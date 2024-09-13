@@ -1,0 +1,3496 @@
+fileFormatVersion: 2
+guid: 1745a265a7442a74987ae4ace7f2ec7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4331589492246149739
+    second: BigMario_0
+  - first:
+      213: 3941909529649530236
+    second: BigMario_1
+  - first:
+      213: 3699058151375222236
+    second: BigMario_2
+  - first:
+      213: -3353895009062492891
+    second: BigMario_3
+  - first:
+      213: 1037678793431066410
+    second: BigMario_4
+  - first:
+      213: 3796028783925099809
+    second: BigMario_5
+  - first:
+      213: -4650602537913957858
+    second: BigMario_6
+  - first:
+      213: -5218740971144903182
+    second: BigMario_7
+  - first:
+      213: 9834234981501715
+    second: BigMario_8
+  - first:
+      213: 1638268348352932925
+    second: BigMario_9
+  - first:
+      213: -2619962861851741010
+    second: BigMario_10
+  - first:
+      213: -599814397016984829
+    second: BigMario_11
+  - first:
+      213: -8318048549353025517
+    second: BigMario_12
+  - first:
+      213: -1017153549171651763
+    second: BigMario_13
+  - first:
+      213: 7664602644892690842
+    second: BigMario_14
+  - first:
+      213: -6140804756958789899
+    second: BigMario_15
+  - first:
+      213: 7371056716105607264
+    second: BigMario_16
+  - first:
+      213: 3275721094054144643
+    second: BigMario_17
+  - first:
+      213: 5374132409358440371
+    second: BigMario_18
+  - first:
+      213: 1476657724113941964
+    second: BigMario_19
+  - first:
+      213: 614040168382762826
+    second: BigMario_20
+  - first:
+      213: -2278355809851412328
+    second: BigMario_21
+  - first:
+      213: 3005637378010001538
+    second: BigMario_22
+  - first:
+      213: -6579366020409027531
+    second: BigMario_23
+  - first:
+      213: -1149471643035724231
+    second: BigMario_24
+  - first:
+      213: -6099855677872647084
+    second: BigMario_25
+  - first:
+      213: 5678488251505142251
+    second: BigMario_26
+  - first:
+      213: -5034182344666261446
+    second: BigMario_27
+  - first:
+      213: -5569259235831563710
+    second: BigMario_28
+  - first:
+      213: 3287306462004613102
+    second: BigMario_29
+  - first:
+      213: 4632551393552728781
+    second: BigMario_30
+  - first:
+      213: 7150693786973014168
+    second: BigMario_31
+  - first:
+      213: -7744535218272122951
+    second: BigMario_32
+  - first:
+      213: 6859616943608132869
+    second: BigMario_33
+  - first:
+      213: -5730812031870187336
+    second: BigMario_34
+  - first:
+      213: 3102620207267942564
+    second: BigMario_35
+  - first:
+      213: 2570442583813286174
+    second: BigMario_36
+  - first:
+      213: -3690883081690161929
+    second: BigMario_37
+  - first:
+      213: -9165731982972932403
+    second: BigMario_38
+  - first:
+      213: 5769898938961677483
+    second: BigMario_39
+  - first:
+      213: 3915412302669717415
+    second: BigMario_40
+  - first:
+      213: -6147793132758860972
+    second: BigMario_41
+  - first:
+      213: 8108520856949062761
+    second: BigMario_42
+  - first:
+      213: 5227411377283566713
+    second: BigMario_43
+  - first:
+      213: 7693579229925873129
+    second: BigMario_44
+  - first:
+      213: 755075225827151025
+    second: BigMario_45
+  - first:
+      213: 455387469802692249
+    second: BigMario_46
+  - first:
+      213: -8678218951105331766
+    second: BigMario_47
+  - first:
+      213: 98276156000223918
+    second: BigMario_48
+  - first:
+      213: 5643261630529337573
+    second: BigMario_49
+  - first:
+      213: 6156188085717866488
+    second: BigMario_50
+  - first:
+      213: 7396463930850322615
+    second: BigMario_51
+  - first:
+      213: 3075097940092585535
+    second: BigMario_52
+  - first:
+      213: 8241809568967404138
+    second: BigMario_53
+  - first:
+      213: -6332720995385843627
+    second: SMOMario_0
+  - first:
+      213: 7053684526235796702
+    second: SMOMario_1
+  - first:
+      213: -1422348355401312442
+    second: SMOMario_2
+  - first:
+      213: -6061391218941273671
+    second: SMOMario_3
+  - first:
+      213: 2270197095177302534
+    second: SMOMario_4
+  - first:
+      213: 1903225730395666620
+    second: SMOMario_5
+  - first:
+      213: -6296510458863000674
+    second: SMOMario_6
+  - first:
+      213: 5447846459077508628
+    second: SMOMario_7
+  - first:
+      213: -8730604038943872946
+    second: SMOMario_8
+  - first:
+      213: -5052753678906064961
+    second: SMOMario_9
+  - first:
+      213: -8908798315207883325
+    second: SMOMario_10
+  - first:
+      213: 1898746010091186949
+    second: SMOMario_11
+  - first:
+      213: -2537210454122296689
+    second: SMOMario_12
+  - first:
+      213: 8997907490380739907
+    second: SMOMario_13
+  - first:
+      213: 2534328494366774725
+    second: SMOMario_14
+  - first:
+      213: -6663002017822756910
+    second: SMOMario_15
+  - first:
+      213: -3235034433369621121
+    second: SMOMario_16
+  - first:
+      213: -6067642788048171850
+    second: SMOMario_17
+  - first:
+      213: 4390612708129163781
+    second: SMOMario_18
+  - first:
+      213: -1336171276412767107
+    second: SMOMario_19
+  - first:
+      213: 7593259254037387951
+    second: SMOMario_20
+  - first:
+      213: 6283069751446187464
+    second: SMOMario_21
+  - first:
+      213: 8455495056364180276
+    second: SMOMario_22
+  - first:
+      213: -7857497927692065535
+    second: SMOMario_23
+  - first:
+      213: -8744083430941619832
+    second: SMOMario_24
+  - first:
+      213: 294102012268237752
+    second: SMOMario_25
+  - first:
+      213: 7858274727452530156
+    second: SMOMario_26
+  - first:
+      213: -7658192651980589753
+    second: SMOMario_27
+  - first:
+      213: 8685255458366750114
+    second: SMOMario_28
+  - first:
+      213: 9012578151974086710
+    second: SMOMario_29
+  - first:
+      213: 6867447392265920007
+    second: SMOMario_30
+  - first:
+      213: 6901043333969478975
+    second: SMOMario_31
+  - first:
+      213: 1220117632703047778
+    second: SMOMario_32
+  - first:
+      213: -4651061603810786511
+    second: SMOMario_33
+  - first:
+      213: -3094518228514623422
+    second: SMOMario_34
+  - first:
+      213: 4543718282729718285
+    second: SMOMario_35
+  - first:
+      213: 3455594401033888438
+    second: SMOMario_36
+  - first:
+      213: 3522039391229421733
+    second: SMOMario_37
+  - first:
+      213: -7951564287824223589
+    second: SMOMario_38
+  - first:
+      213: 2812986889139600176
+    second: SMOMario_39
+  - first:
+      213: -4428147550939479014
+    second: SMOMario_40
+  - first:
+      213: -2500970180931695354
+    second: SMOMario_41
+  - first:
+      213: 6893009782205598995
+    second: SMOMario_42
+  - first:
+      213: 3648979187612676595
+    second: SMOMario_43
+  - first:
+      213: -6765132020213861040
+    second: SMOMario_44
+  - first:
+      213: -25752957258617952
+    second: SMOMario_45
+  - first:
+      213: 3501953628752845714
+    second: SMOMario_46
+  - first:
+      213: -4679418107917020068
+    second: SMOMario_47
+  - first:
+      213: -9177057811466269444
+    second: SMOMario_48
+  - first:
+      213: -3650797357983476399
+    second: SMOMario_49
+  - first:
+      213: 226848421950171979
+    second: SMOMario_50
+  - first:
+      213: -7897910984897754954
+    second: SMOMario_51
+  - first:
+      213: -549800760773301392
+    second: SMOMario_52
+  - first:
+      213: -1007223191684474725
+    second: SMOMario_53
+  - first:
+      213: 173736131526653033
+    second: SMOMario_54
+  - first:
+      213: -5626075824087502930
+    second: SMOMario_55
+  - first:
+      213: -4712569181412787697
+    second: SMOMario_56
+  - first:
+      213: 8000896811118434000
+    second: SMOMario_57
+  - first:
+      213: 6500150006453177831
+    second: SMOMario_58
+  - first:
+      213: -2219141848814135900
+    second: SMOMario_59
+  - first:
+      213: 7616341396694969760
+    second: SMOMario_60
+  - first:
+      213: 8238638672057253832
+    second: SMOMario_61
+  - first:
+      213: 2842180362264120530
+    second: SMOMario_62
+  - first:
+      213: 5498521081405975494
+    second: SMOMario_63
+  - first:
+      213: 2063218875551143381
+    second: SMOMario_64
+  - first:
+      213: 2890458071637197823
+    second: SMOMario_65
+  - first:
+      213: -6466398333580666090
+    second: SMOMario_66
+  - first:
+      213: -6281165912198715319
+    second: SMOMario_67
+  - first:
+      213: -8231553239220521823
+    second: SMOMario_68
+  - first:
+      213: 6479071595024010063
+    second: SMOMario_69
+  - first:
+      213: -6501347348435014306
+    second: SMOMario_70
+  - first:
+      213: 8641248694891383818
+    second: SMOMario_71
+  - first:
+      213: -2043394471985754159
+    second: SMOMario_72
+  - first:
+      213: -1551130271035462446
+    second: SMOMario_73
+  - first:
+      213: 2266637768400876931
+    second: SMOMario_74
+  - first:
+      213: 6742266052122649423
+    second: SMOMario_75
+  - first:
+      213: 4092070202209393966
+    second: SMOMario_76
+  - first:
+      213: -322284890806746077
+    second: SMOMario_77
+  - first:
+      213: 5275534679574346218
+    second: SMOMario_78
+  - first:
+      213: 3245895274478800241
+    second: SMOMario_79
+  - first:
+      213: -7828672028688892706
+    second: SMOMario_80
+  - first:
+      213: 2007554796264875217
+    second: SMOMario_81
+  - first:
+      213: -4790462916482864348
+    second: SMOMario_82
+  - first:
+      213: 5320173538392456342
+    second: SMOMario_83
+  - first:
+      213: 5813879821065573284
+    second: SMOMario_84
+  - first:
+      213: 4241339031293751644
+    second: SMOMario_85
+  - first:
+      213: -3991816685312284446
+    second: SMOMario_86
+  - first:
+      213: 1320585335309312544
+    second: SMOMario_87
+  - first:
+      213: -8626589274233823737
+    second: SMOMario_88
+  - first:
+      213: -3336189253256194179
+    second: SMOMario_89
+  - first:
+      213: -4780833005235590626
+    second: SMOMario_90
+  - first:
+      213: 2171112283527169327
+    second: SMOMario_91
+  - first:
+      213: 7718588480257104488
+    second: SMOMario_92
+  - first:
+      213: 3449497166311294481
+    second: SMOMario_93
+  - first:
+      213: -6793442059757231406
+    second: SMOMario_94
+  - first:
+      213: -214601674700427982
+    second: SMOMario_95
+  - first:
+      213: -4681104122762408167
+    second: SMOMario_96
+  - first:
+      213: -247535252560771715
+    second: SMOMario_97
+  - first:
+      213: -5720978458925224312
+    second: SMOMario_98
+  - first:
+      213: 6785340145517434479
+    second: SMOMario_99
+  - first:
+      213: -6149672421736138180
+    second: SMOMario_100
+  - first:
+      213: 572020473619863199
+    second: SMOMario_101
+  - first:
+      213: -3957670754667421511
+    second: SMOMario_102
+  - first:
+      213: -885025894217269346
+    second: SMOMario_103
+  - first:
+      213: -7633815128456133648
+    second: SMOMario_104
+  - first:
+      213: 8970115721891236261
+    second: SMOMario_105
+  - first:
+      213: 14749486787696540
+    second: SMOMario_106
+  - first:
+      213: 4397303465971469309
+    second: SMOMario_107
+  - first:
+      213: -5027725878253058290
+    second: SMOLuigi_0
+  - first:
+      213: -4720968461325449993
+    second: SMOLuigi_1
+  - first:
+      213: 1768450725120952316
+    second: SMOLuigi_2
+  - first:
+      213: -3796661781087622863
+    second: SMOLuigi_3
+  - first:
+      213: -444095561459706810
+    second: SMOLuigi_4
+  - first:
+      213: -6476410719336763057
+    second: SMOLuigi_5
+  - first:
+      213: -7760550975242321920
+    second: SMOLuigi_6
+  - first:
+      213: -5475098130568947820
+    second: SMOLuigi_7
+  - first:
+      213: -7598597659094177497
+    second: SMOLuigi_8
+  - first:
+      213: -2915442955233091528
+    second: SMOLuigi_9
+  - first:
+      213: 4974434176748200052
+    second: SMOLuigi_10
+  - first:
+      213: -4074324283895482041
+    second: SMOLuigi_11
+  - first:
+      213: 6309226137090765597
+    second: SMOLuigi_12
+  - first:
+      213: -2503146733242741980
+    second: SMOLuigi_13
+  - first:
+      213: 4345311506874029749
+    second: SMOLuigi_14
+  - first:
+      213: 8180449288255463850
+    second: SMOLuigi_15
+  - first:
+      213: -8279735950148209943
+    second: SMOLuigi_16
+  - first:
+      213: 6615384981139625319
+    second: SMOLuigi_17
+  - first:
+      213: -6924895227029080506
+    second: SMOLuigi_18
+  - first:
+      213: 1127136926515059866
+    second: SMOLuigi_19
+  - first:
+      213: 4526511793774141175
+    second: SMOLuigi_20
+  - first:
+      213: -4236391196524092120
+    second: SMOLuigi_21
+  - first:
+      213: 4293137914567869487
+    second: SMOLuigi_22
+  - first:
+      213: 6345631188008391864
+    second: SMOLuigi_23
+  - first:
+      213: 4694273601097175443
+    second: SMOLuigi_24
+  - first:
+      213: -3262572700430875442
+    second: SMOLuigi_25
+  - first:
+      213: -4736796587971548088
+    second: SMOLuigi_26
+  - first:
+      213: 1756510546535487910
+    second: SMOLuigi_27
+  - first:
+      213: 7911371230423836349
+    second: SMOLuigi_28
+  - first:
+      213: -8460744317972875424
+    second: SMOLuigi_29
+  - first:
+      213: 3042408219627418119
+    second: SMOLuigi_30
+  - first:
+      213: 9137523572687076975
+    second: SMOLuigi_31
+  - first:
+      213: 7362683884243210564
+    second: SMOLuigi_32
+  - first:
+      213: 5433217509610722091
+    second: SMOLuigi_33
+  - first:
+      213: 1933902869522062356
+    second: SMOLuigi_34
+  - first:
+      213: -5024976356422742884
+    second: SMOLuigi_35
+  - first:
+      213: 2219545615660692872
+    second: SMOLuigi_36
+  - first:
+      213: 3933976233607961706
+    second: SMOLuigi_37
+  - first:
+      213: -4293816327685758248
+    second: SMOLuigi_38
+  - first:
+      213: 7615904703155303551
+    second: SMOLuigi_39
+  - first:
+      213: 309605730934993754
+    second: SMOLuigi_40
+  - first:
+      213: -2601029041481625877
+    second: SMOLuigi_41
+  - first:
+      213: -4062473261912607437
+    second: SMOLuigi_42
+  - first:
+      213: 3029022793695014614
+    second: SMOLuigi_43
+  - first:
+      213: 7702298203200646507
+    second: SMOLuigi_44
+  - first:
+      213: 4067977766825356238
+    second: SMOLuigi_45
+  - first:
+      213: -7726630606567506686
+    second: SMOLuigi_46
+  - first:
+      213: -1079574274835791924
+    second: SMOLuigi_47
+  - first:
+      213: 2234311111195188826
+    second: SMOLuigi_48
+  - first:
+      213: 877939407914355936
+    second: SMOLuigi_49
+  - first:
+      213: -4027790149092774282
+    second: SMOLuigi_50
+  - first:
+      213: -9034978117205108147
+    second: SMOLuigi_51
+  - first:
+      213: -6704128950922987878
+    second: SMOLuigi_52
+  - first:
+      213: -4582280367236373915
+    second: SMOLuigi_53
+  - first:
+      213: 5690991438433858862
+    second: SMOLuigi_54
+  - first:
+      213: -4835841350201383245
+    second: SMOLuigi_55
+  - first:
+      213: -5492653281867689686
+    second: SMOLuigi_56
+  - first:
+      213: 3961337852337585448
+    second: SMOLuigi_57
+  - first:
+      213: 7082527719536052373
+    second: SMOLuigi_58
+  - first:
+      213: 1860324887034228328
+    second: SMOLuigi_59
+  - first:
+      213: -6162670603050614255
+    second: SMOLuigi_60
+  - first:
+      213: 8769332305370242281
+    second: SMOLuigi_61
+  - first:
+      213: 3977210656660972824
+    second: SMOLuigi_62
+  - first:
+      213: 5853777406442364543
+    second: SMOLuigi_63
+  - first:
+      213: 5172412367120733273
+    second: SMOLuigi_64
+  - first:
+      213: 1050034701778790308
+    second: SMOLuigi_65
+  - first:
+      213: 6282453567158051610
+    second: SMOLuigi_66
+  - first:
+      213: 7570506971536678168
+    second: SMOLuigi_67
+  - first:
+      213: 4889209614768612808
+    second: SMOLuigi_68
+  - first:
+      213: -8268737012835029705
+    second: SMOLuigi_69
+  - first:
+      213: -5388230926643922111
+    second: SMOLuigi_70
+  - first:
+      213: 4572532373893472061
+    second: SMOLuigi_71
+  - first:
+      213: 3885813825432547899
+    second: SMOLuigi_72
+  - first:
+      213: 5716967045853996599
+    second: SMOLuigi_73
+  - first:
+      213: 6661377250123745795
+    second: SMOLuigi_74
+  - first:
+      213: -4672121446173321792
+    second: SMOLuigi_75
+  - first:
+      213: -6867993250408483886
+    second: SMOLuigi_76
+  - first:
+      213: 7884544899831972177
+    second: SMOLuigi_77
+  - first:
+      213: 7085363205730915099
+    second: SMOLuigi_78
+  - first:
+      213: 951824008200114837
+    second: SMOLuigi_79
+  - first:
+      213: 3024330244359038592
+    second: SMOLuigi_80
+  - first:
+      213: -1573284619447745864
+    second: SMOLuigi_81
+  - first:
+      213: 2553851622374930454
+    second: SMOLuigi_82
+  - first:
+      213: -1647687624150912790
+    second: SMOLuigi_83
+  - first:
+      213: 347294012546074518
+    second: SMOLuigi_84
+  - first:
+      213: 6671255886978004908
+    second: SMOLuigi_85
+  - first:
+      213: -1064533078159329019
+    second: SMOLuigi_86
+  - first:
+      213: -6504849688419337660
+    second: SMOLuigi_87
+  - first:
+      213: 9068205971536824677
+    second: SMOLuigi_88
+  - first:
+      213: -4616293256426169344
+    second: SMOLuigi_89
+  - first:
+      213: 3649121977934556753
+    second: SMOLuigi_90
+  - first:
+      213: 8151173109159113577
+    second: SMOLuigi_91
+  - first:
+      213: -2369037187853382992
+    second: SMOLuigi_92
+  - first:
+      213: 8366886368493603573
+    second: SMOLuigi_93
+  - first:
+      213: -5122822804058055891
+    second: SMOLuigi_94
+  - first:
+      213: 4399025407954119549
+    second: SMOLuigi_95
+  - first:
+      213: -3199345042258175458
+    second: SMOLuigi_96
+  - first:
+      213: -2870222913083665632
+    second: SMOLuigi_97
+  - first:
+      213: 5088526197674852270
+    second: SMOLuigi_98
+  - first:
+      213: 8088451754241092625
+    second: SMOLuigi_99
+  - first:
+      213: -8242643047605792662
+    second: SMOLuigi_100
+  - first:
+      213: -2292177870514144435
+    second: SMOLuigi_101
+  - first:
+      213: 44183069666177436
+    second: SMOLuigi_102
+  - first:
+      213: -6816503457572939345
+    second: SMOLuigi_103
+  - first:
+      213: -6718933909765490591
+    second: SMOLuigi_104
+  - first:
+      213: -9063730374961231183
+    second: SMOLuigi_105
+  - first:
+      213: -1496411978601833046
+    second: SMOLuigi_106
+  - first:
+      213: 5257182208268477407
+    second: SMOLuigi_107
+  - first:
+      213: 6922708682807362163
+    second: SMOLuigi_108
+  - first:
+      213: -167057335913306617
+    second: SMOLuigi_109
+  - first:
+      213: -8920369307557615421
+    second: SMOLuigi_110
+  - first:
+      213: 7337898145684103953
+    second: SMOLuigi_111
+  - first:
+      213: -4826146889145060962
+    second: SMOLuigi_112
+  - first:
+      213: 272345044931780402
+    second: SMOLuigi_113
+  - first:
+      213: -2274530619249083426
+    second: SMOLuigi_114
+  - first:
+      213: -2517199102186087182
+    second: SMOLuigi_115
+  - first:
+      213: 8226130151753556068
+    second: SMOLuigi_116
+  - first:
+      213: -8514337275358705305
+    second: SMOLuigi_117
+  - first:
+      213: 1966938149825698167
+    second: SMOLuigi_118
+  - first:
+      213: 6013947552005195640
+    second: SMOLuigi_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMOLuigi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0700b6a3fde93ab0800000000000000
+      internalID: -5027725878253058290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4cfda7230cb7eb0800000000000000
+      internalID: -4720968461325449993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7cd99909cca8810800000000000000
+      internalID: 1768450725120952316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13968f5c93c8f4bc0800000000000000
+      internalID: -3796661781087622863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ddd4907146d9f0800000000000000
+      internalID: -444095561459706810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f417666a3ca2f16a0800000000000000
+      internalID: -6476410719336763057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ce53510cfc4490800000000000000
+      internalID: -7760550975242321920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4975801324b8404b0800000000000000
+      internalID: -5475098130568947820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729a39a20bb5c8690800000000000000
+      internalID: -7598597659094177497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830aa6234144a87d0800000000000000
+      internalID: -2915442955233091528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470a3af278db80540800000000000000
+      internalID: 4974434176748200052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74979a686a71577c0800000000000000
+      internalID: -4074324283895482041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b7e47ebfde8750800000000000000
+      internalID: 6309226137090765597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b0360fe49034dd0800000000000000
+      internalID: -2503146733242741980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6d4a50bc5ad4c30800000000000000
+      internalID: 4345311506874029749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa16099294bc68170800000000000000
+      internalID: 8180449288255463850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e272617508781d80800000000000000
+      internalID: -8279735950148209943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765184d27919ecb50800000000000000
+      internalID: 6615384981139625319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646322e0b74d5ef90800000000000000
+      internalID: -6924895227029080506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd726101564af00800000000000000
+      internalID: 1127136926515059866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe16837e7661de30800000000000000
+      internalID: 4526511793774141175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825e691f6a05535c0800000000000000
+      internalID: -4236391196524092120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f244491ff2a449b30800000000000000
+      internalID: 4293137914567869487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b451e4e1f5301850800000000000000
+      internalID: 6345631188008391864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39114e708f8652140800000000000000
+      internalID: 4694273601097175443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec44ee03a6309b2d0800000000000000
+      internalID: -3262572700430875442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6ca09994834eb0800000000000000
+      internalID: -4736796587971548088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a999722901606810800000000000000
+      internalID: 1756510546535487910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db668a3c736dacd60800000000000000
+      internalID: 7911371230423836349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_29
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06772d7aed5659a80800000000000000
+      internalID: -8460744317972875424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702fe98082ec83a20800000000000000
+      internalID: 3042408219627418119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_31
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e75c4d6410fce70800000000000000
+      internalID: 9137523572687076975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4415fc9cbf18d2660800000000000000
+      internalID: 7362683884243210564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_33
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2397cfd98aa66b40800000000000000
+      internalID: 5433217509610722091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_34
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c98ffd96a96da10800000000000000
+      internalID: 1933902869522062356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_35
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8fa690a2b34ab0800000000000000
+      internalID: -5024976356422742884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8853b305af86dce10800000000000000
+      internalID: 2219545615660692872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_37
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c18079a8a489630800000000000000
+      internalID: 3933976233607961706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_38
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2a481bccc4964c0800000000000000
+      internalID: -4293816327685758248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_39
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f747cca0af021b960800000000000000
+      internalID: 7615904703155303551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a533ecc95c0fb4400800000000000000
+      internalID: 309605730934993754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_41
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee430c1ed947ebd0800000000000000
+      internalID: -2601029041481625877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_42
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3353d2a97123f97c0800000000000000
+      internalID: -4062473261912607437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_43
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dea0c2be20490a20800000000000000
+      internalID: 3029022793695014614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_44
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d67e3486f04ea60800000000000000
+      internalID: 7702298203200646507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbefc1d93c547830800000000000000
+      internalID: 4067977766825356238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_46
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20df1e8966e75c490800000000000000
+      internalID: -7726630606567506686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_47
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf33c7bae49401f0800000000000000
+      internalID: -1079574274835791924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e5f742e1ed10f10800000000000000
+      internalID: 2234311111195188826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_49
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec4d0f6d311f2c00800000000000000
+      internalID: 877939407914355936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_50
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ee185133a6a18c0800000000000000
+      internalID: -4027790149092774282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_51
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4adf82954f4d9280800000000000000
+      internalID: -9034978117205108147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_52
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96b2d73d3626f2a0800000000000000
+      internalID: -6704128950922987878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_53
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56221a1b8487860c0800000000000000
+      internalID: -4582280367236373915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_54
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b3a3af867afe40800000000000000
+      internalID: 5690991438433858862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_55
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6e913d9e3a3ecb0800000000000000
+      internalID: -4835841350201383245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_56
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2194e301fc26c3b0800000000000000
+      internalID: -5492653281867689686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_57
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82df3e3e9cf79f630800000000000000
+      internalID: 3961337852337585448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_58
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598cdc2af613a4260800000000000000
+      internalID: 7082527719536052373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_59
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e6e7ad0a331d910800000000000000
+      internalID: 1860324887034228328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1120d6ddcbbc97aa0800000000000000
+      internalID: -6162670603050614255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec53f2154de2b970800000000000000
+      internalID: 8769332305370242281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ec232504e13730800000000000000
+      internalID: 3977210656660972824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e5439598bcc3150800000000000000
+      internalID: 5853777406442364543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954911ea4a918c740800000000000000
+      internalID: 5172412367120733273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7ab597ff8729e00800000000000000
+      internalID: 1050034701778790308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a136754cb32cf2750800000000000000
+      internalID: 6282453567158051610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ddf08faf7df0960800000000000000
+      internalID: 7570506971536678168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c525b09d36f9d340800000000000000
+      internalID: 4889209614768612808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73de7d81f7b8f3d80800000000000000
+      internalID: -8268737012835029705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b7d9135882935b0800000000000000
+      internalID: -5388230926643922111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fd4edb7f5e47f30800000000000000
+      internalID: 4572532373893472061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b327538161f2de530800000000000000
+      internalID: 3885813825432547899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736edb80d3fb65f40800000000000000
+      internalID: 5716967045853996599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a8e74c057f17c50800000000000000
+      internalID: 6661377250123745795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5da557c4a492fb0800000000000000
+      internalID: -4672121446173321792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d33f95e68cffa0a0800000000000000
+      internalID: -6867993250408483886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_77
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1514a12ffc78b6d60800000000000000
+      internalID: 7884544899831972177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13d636bb44445260800000000000000
+      internalID: 7085363205730915099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_79
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592d47974ee853d00800000000000000
+      internalID: 951824008200114837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ad7a655498f920800000000000000
+      internalID: 3024330244359038592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_81
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b24b3769f19a2ae0800000000000000
+      internalID: -1573284619447745864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61876b8058a117320800000000000000
+      internalID: 2553851622374930454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_83
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae07dade5dc3229e0800000000000000
+      internalID: -1647687624150912790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697cd6a7016d1d400800000000000000
+      internalID: 347294012546074518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_85
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7be0522ef059c50800000000000000
+      internalID: 6671255886978004908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_86
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509f8a83ec40a31f0800000000000000
+      internalID: -1064533078159329019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_87
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a747c2ca12ab5a0800000000000000
+      internalID: -6504849688419337660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_88
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5694783294db8dd70800000000000000
+      internalID: 9068205971536824677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_89
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cdfafcdb1afefb0800000000000000
+      internalID: -4616293256426169344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_90
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e2cd4ea1944a230800000000000000
+      internalID: 3649121977934556753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_91
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963352a81c8ce1170800000000000000
+      internalID: 8151173109159113577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_92
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba0f46ba3d7f1fd0800000000000000
+      internalID: -2369037187853382992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_93
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa8e1e82d62d1470800000000000000
+      internalID: 8366886368493603573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_94
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b59d43dc318e8b0800000000000000
+      internalID: -5122822804058055891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_95
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7be50f2d4a7c0d30800000000000000
+      internalID: 4399025407954119549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_96
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5b4a82a4a993d0800000000000000
+      internalID: -3199345042258175458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_97
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0231677b77bea28d0800000000000000
+      internalID: -2870222913083665632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_98
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafbdaadd931e9640800000000000000
+      internalID: 5088526197674852270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_99
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cec6a1404ff3070800000000000000
+      internalID: 8088451754241092625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a601d11d1df3c9d80800000000000000
+      internalID: -8242643047605792662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_101
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3ef90f5c8030e0800000000000000
+      internalID: -2292177870514144435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_102
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91f98c8448fc9000800000000000000
+      internalID: 44183069666177436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_103
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa99421883ae661a0800000000000000
+      internalID: -6816503457572939345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_104
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168f91f153d81c2a0800000000000000
+      internalID: -6718933909765490591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_105
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba8484ee39273280800000000000000
+      internalID: -9063730374961231183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_106
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad5cc9db3dab3be0800000000000000
+      internalID: -1496411978601833046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_107
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a85b5d5345f840800000000000000
+      internalID: 5257182208268477407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372ce327ed6621060800000000000000
+      internalID: 6922708682807362163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_109
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a3c3fc3e7eadf0800000000000000
+      internalID: -167057335913306617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_110
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c82bbd706b743480800000000000000
+      internalID: -8920369307557615421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_111
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113af735c7375d560800000000000000
+      internalID: 7337898145684103953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_112
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f6ae69f4160db0800000000000000
+      internalID: -4826146889145060962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_113
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f1f7b106097c300800000000000000
+      internalID: 272345044931780402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_114
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbb8e8e37e3f60e0800000000000000
+      internalID: -2274530619249083426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_115
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc1445d0cc111dd0800000000000000
+      internalID: -2517199102186087182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_116
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460a6630ac5192270800000000000000
+      internalID: 8226130151753556068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_117
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7698064eb5ff6d980800000000000000
+      internalID: -8514337275358705305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_118
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779568373d7fb4b10800000000000000
+      internalID: 1966938149825698167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMOLuigi_119
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877891f6f65d57350800000000000000
+      internalID: 6013947552005195640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

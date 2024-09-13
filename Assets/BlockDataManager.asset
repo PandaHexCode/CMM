@@ -1,0 +1,2782 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b8c7ae1ae5bb9a4ca4afcddf1beff72, type: 3}
+  m_Name: BlockDataManager
+  m_EditorClassIdentifier: 
+  editorTempBlockPrefarb: {fileID: 3577043265903793213, guid: bfb17950fe5bf174897818f5fe3704a9, type: 3}
+  blockDatas:
+  - id: 0
+    prefarb: {fileID: 3577043265903793213, guid: 3cd88b26e844849458233a1a605e813e, type: 3}
+    spriteId: 208
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 84ce707cc58ef4541a2da2abce7ae371, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 1
+    prefarb: {fileID: 3577043265903793213, guid: 320bfbac8bee0f549bba12626e9a7637, type: 3}
+    spriteId: 6
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 2
+    prefarb: {fileID: 2059658956852847841, guid: e6919d1f4f785964ea78f2c421543d21, type: 3}
+    spriteId: 1
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 3
+    prefarb: {fileID: 3577043265903793213, guid: 8b250dac8449b1741a7b1226b90d78bc, type: 3}
+    spriteId: 128
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 1
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 4
+    prefarb: {fileID: 3577043265903793213, guid: 2a2cb0bc100b1d14585a7084d9b14888, type: 3}
+    spriteId: 112
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 983c3d41cb0c9a94e8651efd5ea1003c, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 5
+    prefarb: {fileID: 3577043265903793213, guid: fd3f6e75670025c4bbcaf4328ec27e22, type: 3}
+    spriteId: 1
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 47340881039ff3f449077b8fe58ae2a0, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 6
+    prefarb: {fileID: 3577043265903793213, guid: 162c6b8797f04fc42b28c5ab5b045e40, type: 3}
+    spriteId: 2
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 7
+    prefarb: {fileID: 3577043265903793213, guid: 58a21ef590cce6e4ba9d9806a9b1cb69, type: 3}
+    spriteId: 8
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 8
+    prefarb: {fileID: 3577043265903793213, guid: cd50126fd1330e644aabc55d624e6ed4, type: 3}
+    spriteId: 23
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 9
+    prefarb: {fileID: 3577043265903793213, guid: d97f0f3c5b2dbf94ab61dd50ce1aac65, type: 3}
+    spriteId: 14
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 249ed863235c0084db7650c32519ad3e, type: 3}
+    needSize: {x: 1, y: -1}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 10
+    prefarb: {fileID: 3577043265903793213, guid: 36127385303cf054aa361dd995596e77, type: 3}
+    spriteId: 3
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 983c3d41cb0c9a94e8651efd5ea1003c, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 11
+    prefarb: {fileID: 3577043265903793213, guid: d42e3bf8729a2c043b60851359ddfaa4, type: 3}
+    spriteId: 3
+    tilesetType: 0
+    keepOriginalSprite: 1
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: ff0d2a46af38cc34093d6270986b9230, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 1
+    cantDestroy: 1
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 12
+    prefarb: {fileID: 3577043265903793213, guid: 2325bc5c293e37545bcfc5a3825211a5, type: 3}
+    spriteId: 146
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 13
+    prefarb: {fileID: 3577043265903793213, guid: d42e3bf8729a2c043b60851359ddfaa4, type: 3}
+    spriteId: 160
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 14
+    prefarb: {fileID: 3577043265903793213, guid: 9b07a865dd0bb5943a1c150dd3536816, type: 3}
+    spriteId: 177
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 15
+    prefarb: {fileID: 2059658956852847841, guid: 640189b9d2f83e34e868d88fbef04454, type: 3}
+    spriteId: 3
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.25, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 16
+    prefarb: {fileID: 3577043265903793213, guid: e43e3d720c1697b4f9429dd83f906acc, type: 3}
+    spriteId: 169
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 17
+    prefarb: {fileID: 3577043265903793213, guid: 6929ccb0e3c55d24b8bc76e0b90b5897, type: 3}
+    spriteId: 173
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 18
+    prefarb: {fileID: 3577043265903793213, guid: d9aec1dabe23f5b46a2cb23189b16d70, type: 3}
+    spriteId: 32
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 19
+    prefarb: {fileID: 3577043265903793213, guid: f815c4c5d24fcb447a38f960c2a640d0, type: 3}
+    spriteId: 34
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 20
+    prefarb: {fileID: 3577043265903793213, guid: 38edf3940d03a0144a45850facbac09a, type: 3}
+    spriteId: 97
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: c0cefa1fd8de0834f9133af8b162b4d2, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 21
+    prefarb: {fileID: 3577043265903793213, guid: d9e82eac0eeae884fb7364de4ca71cee, type: 3}
+    spriteId: 102
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 22
+    prefarb: {fileID: 3577043265903793213, guid: ab51304a19a5c9646b59a7693fe380c7, type: 3}
+    spriteId: 64
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 23
+    prefarb: {fileID: 3577043265903793213, guid: 5691339f31adbcc44b97fc1d0543933e, type: 3}
+    spriteId: 4
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 24
+    prefarb: {fileID: 3577043265903793213, guid: 2c6c24e238a328444a0e6ffe90aae3bd, type: 3}
+    spriteId: 14
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 25
+    prefarb: {fileID: 3577043265903793213, guid: fc1e08e8cb838584cb805798b94d27c1, type: 3}
+    spriteId: 66
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 26
+    prefarb: {fileID: 2059658956852847841, guid: 85580d1680b32f644a639dd0abbb6a74, type: 3}
+    spriteId: 6
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.25, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 27
+    prefarb: {fileID: 3577043265903793213, guid: 75c0eecd62b71c346b20979fc99c6bb7, type: 3}
+    spriteId: 162
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: fb8155e4fcc03c741ba88c990fd81312, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 28
+    prefarb: {fileID: 2059658956852847841, guid: 445c909c053ef994699fbea9b257b667, type: 3}
+    spriteId: 21
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 29
+    prefarb: {fileID: 2059658956852847841, guid: eb50893c18bcc2244964f76d3ea05ce2, type: 3}
+    spriteId: 15
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.25, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 30
+    prefarb: {fileID: 2059658956852847841, guid: ed96b82f859534246ba8c16a2a565c46, type: 3}
+    spriteId: 17
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.25, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 31
+    prefarb: {fileID: 2059658956852847841, guid: 20ca8233d1773cc4e87eb234f5b0f291, type: 3}
+    spriteId: 27
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 1
+    darkGlowMaskSize: {x: 0.7, y: 0.7, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 32
+    prefarb: {fileID: 2059658956852847841, guid: 92a50840a38eb6e46b108f9d5a11d44d, type: 3}
+    spriteId: 29
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 1
+    darkGlowMaskSize: {x: 2, y: 2, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 33
+    prefarb: {fileID: 2059658956852847841, guid: 78ef7af153b5f634ab94e628a0963f80, type: 3}
+    spriteId: 23
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 34
+    prefarb: {fileID: 3577043265903793213, guid: e9968bc7b26f3d64c994412accf5c6c3, type: 3}
+    spriteId: 16
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 3
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 35
+    prefarb: {fileID: 3577043265903793213, guid: ab5280fa46c8d5f498f970c8a24adc47, type: 3}
+    spriteId: 141
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 3
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: ab5280fa46c8d5f498f970c8a24adc47, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 36
+    prefarb: {fileID: 3577043265903793213, guid: 782faf6c33f751f4c827595ef74991c8, type: 3}
+    spriteId: 17
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 3
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 782faf6c33f751f4c827595ef74991c8, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 37
+    prefarb: {fileID: 3577043265903793213, guid: fd59348c213e97e449d13e25eea19a54, type: 3}
+    spriteId: 19
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 3
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: fd59348c213e97e449d13e25eea19a54, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 38
+    prefarb: {fileID: 3577043265903793213, guid: bb73f48167aa6f04bad57324403e6561, type: 3}
+    spriteId: 163
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 3
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: bb73f48167aa6f04bad57324403e6561, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 1.2, y: -1, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 1.1, y: 1.1, z: 1.1}
+  - id: 39
+    prefarb: {fileID: 3577043265903793213, guid: 18372e9d481c6e84583b9b81e6d9fea1, type: 3}
+    spriteId: 7
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: c0cefa1fd8de0834f9133af8b162b4d2, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.5, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 40
+    prefarb: {fileID: 3577043265903793213, guid: bf729b5c07ced864da4840c19bc45005, type: 3}
+    spriteId: 37
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 41
+    prefarb: {fileID: 3577043265903793213, guid: 662c4e3511e0f354db5640fa9a00e0f3, type: 3}
+    spriteId: 0
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0.3, y: 0.5, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 42
+    prefarb: {fileID: 3577043265903793213, guid: ced1363dfa43354499b60e811dbbe179, type: 3}
+    spriteId: 15
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 1, y: 1}
+    placeOffset: {x: 0.5, y: 0.5, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 43
+    prefarb: {fileID: 3577043265903793213, guid: 551fb25d8ca232f45b6cade1bf265fa5, type: 3}
+    spriteId: 44
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: d8dc1111e51bf53439df8e6cf8e2f0e4, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: -0.55, y: 8.9, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 44
+    prefarb: {fileID: 3577043265903793213, guid: ced1363dfa43354499b60e811dbbe179, type: 3}
+    spriteId: 62
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 45
+    prefarb: {fileID: 3577043265903793213, guid: f8306ff5353b959479c4fe50cfdb8eaf, type: 3}
+    spriteId: 10
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 7745344fe558c1c46aabf22d036509bd, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0.5, y: 0.5, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 46
+    prefarb: {fileID: 3577043265903793213, guid: 4b19928ed5d2daf448899c3ac2084730, type: 3}
+    spriteId: 25
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 47
+    prefarb: {fileID: 3577043265903793213, guid: 12820a1c68a9b7f499b24a81c29ecc69, type: 3}
+    spriteId: 38
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 1
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 48
+    prefarb: {fileID: 3577043265903793213, guid: ff295e8475168a24d99490e1c29b3bb0, type: 3}
+    spriteId: 16
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 49
+    prefarb: {fileID: 3577043265903793213, guid: 2cce571f373f3914a96de04b5ae039bc, type: 3}
+    spriteId: 19
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 3
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 2ef4d85c408e0a4418a18859fce32793, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 50
+    prefarb: {fileID: 3577043265903793213, guid: ef7dc9357b019664b975a02f9137468a, type: 3}
+    spriteId: 28
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 2, y: 2}
+    placeOffset: {x: 1, y: 1, z: 0}
+    canSpam: 1
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 1.1, y: 1.1, z: 1.1}
+  - id: 51
+    prefarb: {fileID: 2059658956852847841, guid: 2b8ffea2bb8f4724db7bd25bb9eb766e, type: 3}
+    spriteId: 9
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.25, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 52
+    prefarb: {fileID: 2059658956852847841, guid: 32168927915938c41942a3b10c7f46a3, type: 3}
+    spriteId: 31
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 53
+    prefarb: {fileID: 2059658956852847841, guid: 5fee4cf10b6dff84b9e9e455b9e3cd24, type: 3}
+    spriteId: 32
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 2059658956852847841, guid: 7f0f7fb0adca2ea42955eb0bf1ca4348, type: 3}
+    needSize: {x: 0, y: 1}
+    placeOffset: {x: 0, y: 0.5, z: 0}
+    canSpam: 1
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 54
+    prefarb: {fileID: 2059658956852847841, guid: 8d252b3e30e3a71428513ca7aa5a67df, type: 3}
+    spriteId: 34
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 55
+    prefarb: {fileID: 2059658956852847841, guid: 9f63ced330b327a42a925ca553fa9382, type: 3}
+    spriteId: 35
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 1}
+    placeOffset: {x: 0, y: 0.5, z: 0}
+    canSpam: 1
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 56
+    prefarb: {fileID: 2059658956852847841, guid: 773c0aca1b3cfaa40a48d0545e7a4fcb, type: 3}
+    spriteId: 37
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: ea277b8ee0fb06340a732778590e75c3, type: 3}
+    needSize: {x: 4, y: 4}
+    placeOffset: {x: 1.5, y: 1.5, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 57
+    prefarb: {fileID: 2059658956852847841, guid: 773c0aca1b3cfaa40a48d0545e7a4fcb, type: 3}
+    spriteId: 38
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 7745344fe558c1c46aabf22d036509bd, type: 3}
+    needSize: {x: 4, y: 4}
+    placeOffset: {x: 1.5, y: 1.5, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 58
+    prefarb: {fileID: 2059658956852847841, guid: 73b58384ced6b6c469595bf2ecf05adc, type: 3}
+    spriteId: 39
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 1, y: 1}
+    placeOffset: {x: 0.5, y: 0.5, z: 0}
+    canSpam: 1
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 59
+    prefarb: {fileID: 2059658956852847841, guid: 454dd3f266703d24781db8067c0a1af1, type: 3}
+    spriteId: 42
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 60
+    prefarb: {fileID: 2059658956852847841, guid: d17fa68a1794a91489b5fce2ef31b320, type: 3}
+    spriteId: 46
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 1
+    darkGlowMaskSize: {x: 0.7, y: 0.7, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 61
+    prefarb: {fileID: 2059658956852847841, guid: 49f75eeb75f4e1f4383dbc454db49f54, type: 3}
+    spriteId: 51
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.4, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 62
+    prefarb: {fileID: 3577043265903793213, guid: 1f35d70094cd6a7448c686ee8985e96c, type: 3}
+    spriteId: 20
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 6b9609af17624cb4c98d1c11ec0a163c, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 63
+    prefarb: {fileID: 3577043265903793213, guid: 989bdfaf8f95d054f93c5e0e395933d6, type: 3}
+    spriteId: 28
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: da8f49a98eb6cfe4ba33a7e7d4ea0c6c, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 64
+    prefarb: {fileID: 3577043265903793213, guid: bec43647bfbffee4e8d64c7b63eb3a1c, type: 3}
+    spriteId: 29
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 1, y: 1}
+    placeOffset: {x: 0.5, y: 0.5, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 65
+    prefarb: {fileID: 3577043265903793213, guid: 3b05c9e4e853e5a44b871845584654f5, type: 3}
+    spriteId: 33
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 1, y: 1}
+    placeOffset: {x: 0.5, y: 0.5, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 66
+    prefarb: {fileID: 3577043265903793213, guid: 2b37124f24b6b814c9d25608a87d6986, type: 3}
+    spriteId: 37
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 1, y: 1}
+    placeOffset: {x: 0.5, y: 0.5, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 67
+    prefarb: {fileID: 3577043265903793213, guid: e9968bc7b26f3d64c994412accf5c6c3, type: 3}
+    spriteId: 41
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 3
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 2, y: 2, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 68
+    prefarb: {fileID: 3577043265903793213, guid: 20e481186c027204691be59be8e26aaf, type: 3}
+    spriteId: 30
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 69
+    prefarb: {fileID: 3577043265903793213, guid: b6c4f7fe1c0bd6946a8f216189f826df, type: 3}
+    spriteId: 21
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 8585bc764181f2144901e03bb6981b02, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 70
+    prefarb: {fileID: 3577043265903793213, guid: 367762530053f084b889af21eca8153b, type: 3}
+    spriteId: 120
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 71
+    prefarb: {fileID: 3577043265903793213, guid: 43cf2f2de1e1bb245b85e5ed2a45f042, type: 3}
+    spriteId: 46
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: c0cefa1fd8de0834f9133af8b162b4d2, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.5, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 72
+    prefarb: {fileID: 3577043265903793213, guid: eb2ba81dbadd5074589b7b54eee4fd82, type: 3}
+    spriteId: 49
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 1b62ae96732986a438f9b4d90f4acc95, type: 3}
+    needSize: {x: 2, y: 0}
+    placeOffset: {x: 0, y: 0.2, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 73
+    prefarb: {fileID: 3577043265903793213, guid: d6eafe040772814409a38c9ced9a8bab, type: 3}
+    spriteId: 52
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 16112818396d2d84ebefa23795b1d30d, type: 3}
+    needSize: {x: 2, y: 0}
+    placeOffset: {x: 0, y: 0.2, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 74
+    prefarb: {fileID: 3577043265903793213, guid: 67c85188da841d241985ffc85c74eceb, type: 3}
+    spriteId: 79
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 69c2b3718f5950542a321c23ee73c680, type: 3}
+    needSize: {x: 2, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 75
+    prefarb: {fileID: 3577043265903793213, guid: 9167feb1c11f83d4e8b33fb4d6f23b9e, type: 3}
+    spriteId: 55
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 3
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 50d71d6b55ac25247b6223454b444350, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 76
+    prefarb: {fileID: 3577043265903793213, guid: b9a5eaa2e6bd62749b592730a5bebfa0, type: 3}
+    spriteId: 164
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 983c3d41cb0c9a94e8651efd5ea1003c, type: 3}
+    needSize: {x: 2, y: 0}
+    placeOffset: {x: 1, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 1.2, y: 1.2, z: 1.2}
+  - id: 77
+    prefarb: {fileID: 3577043265903793213, guid: ae2f34ff1ef7d1049bd6b7ea90414a55, type: 3}
+    spriteId: 208
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 4
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 9c2d96b028462514ca6fb0f628185b38, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 78
+    prefarb: {fileID: 3577043265903793213, guid: dec68e27a8a8e2a4f89db9902cf71e5d, type: 3}
+    spriteId: 125
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 1
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: c8118da95968cb242a82d27535f1f0b3, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: -1, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 79
+    prefarb: {fileID: 3577043265903793213, guid: 4f0fcea74ed0ac847b4cefce1d65b508, type: 3}
+    spriteId: 35
+    tilesetType: 0
+    keepOriginalSprite: 1
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 3
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 86d96ca0b08cbc945ba24e40a88af353, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 80
+    prefarb: {fileID: 3577043265903793213, guid: 304c32945da61cd4f8c431e81784f6d2, type: 3}
+    spriteId: 174
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 7070a9c12cf2e8f4d96c4089db984652, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 81
+    prefarb: {fileID: 3577043265903793213, guid: 36cd9a2e71b42bb4a9abd56cb6d55a55, type: 3}
+    spriteId: 0
+    tilesetType: 0
+    keepOriginalSprite: 1
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 4
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 36cd9a2e71b42bb4a9abd56cb6d55a55, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 1
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 82
+    prefarb: {fileID: 3577043265903793213, guid: eb7b17a6ccd0d0a4dbcefca3ec545540, type: 3}
+    spriteId: 0
+    tilesetType: 0
+    keepOriginalSprite: 1
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 4
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: eb7b17a6ccd0d0a4dbcefca3ec545540, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 1
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 83
+    prefarb: {fileID: 3577043265903793213, guid: 0bd87c78aeacc4c46a6ff607973bb295, type: 3}
+    spriteId: 0
+    tilesetType: 0
+    keepOriginalSprite: 1
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 4
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 0bd87c78aeacc4c46a6ff607973bb295, type: 3}
+    needSize: {x: 2, y: 0}
+    placeOffset: {x: 1, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 1
+    cantDestroy: 0
+    blockGUICustomSize: {x: 1.1, y: 1.1, z: 1.1}
+  - id: 84
+    prefarb: {fileID: 2059658956852847841, guid: 78d70e43290767a41ac8877b327c3e04, type: 3}
+    spriteId: 71
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.25, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 85
+    prefarb: {fileID: 2059658956852847841, guid: dcb5354134adcd74a8c8a8fbe717fc3b, type: 3}
+    spriteId: 76
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 1, y: 1}
+    placeOffset: {x: 0.25, y: 0.5, z: 0}
+    canSpam: 1
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 86
+    prefarb: {fileID: 2059658956852847841, guid: fb330b2ba7f922844bf9326570b16618, type: 3}
+    spriteId: 0
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 87
+    prefarb: {fileID: 2059658956852847841, guid: 18160f6777744ca438cc5bc5e4957775, type: 3}
+    spriteId: 86
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 88
+    prefarb: {fileID: 2059658956852847841, guid: d9bd3a224d07c494fb859b6fdbc1c12e, type: 3}
+    spriteId: 88
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 89
+    prefarb: {fileID: 2059658956852847841, guid: 93c3da514a1b7a344ab8cfd0c4a7cbe2, type: 3}
+    spriteId: 90
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 90
+    prefarb: {fileID: 2059658956852847841, guid: fcb3b5ddada2b3a4ca462fd51b3ee027, type: 3}
+    spriteId: 97
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 91
+    prefarb: {fileID: 2059658956852847841, guid: 2b2b58e9c02e2d1429ba78f869dabbf5, type: 3}
+    spriteId: 105
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 1
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 1, y: 1}
+    placeOffset: {x: 0.5, y: 0.5, z: 0}
+    canSpam: 1
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 92
+    prefarb: {fileID: 3577043265903793213, guid: d9e82eac0eeae884fb7364de4ca71cee, type: 3}
+    spriteId: 255
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 93
+    prefarb: {fileID: 3577043265903793213, guid: a100aa1a20daa774abd356d74764461d, type: 3}
+    spriteId: 177
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 1
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 94
+    prefarb: {fileID: 3577043265903793213, guid: 34ba7a02135391b45b22c855efc60ee6, type: 3}
+    spriteId: 181
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: c0cefa1fd8de0834f9133af8b162b4d2, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.5, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 95
+    prefarb: {fileID: 3577043265903793213, guid: 40c11a014c3957945bee39eeba9eb50e, type: 3}
+    spriteId: 3
+    tilesetType: 4
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 1
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 96
+    prefarb: {fileID: 3577043265903793213, guid: 9833f2a5896c8624f87824ad95c778a2, type: 3}
+    spriteId: 132
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 97
+    prefarb: {fileID: 3577043265903793213, guid: 80305cfe15bf66e46902a446484b90f3, type: 3}
+    spriteId: 148
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 247aa803fa88cc24b9b9abb9afde7b1d, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 98
+    prefarb: {fileID: 3577043265903793213, guid: dd8d55440969ae5479a91d2f5e07092e, type: 3}
+    spriteId: 185
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 99
+    prefarb: {fileID: 3577043265903793213, guid: 6929ccb0e3c55d24b8bc76e0b90b5897, type: 3}
+    spriteId: 189
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 100
+    prefarb: {fileID: 3577043265903793213, guid: 3713ac9da4e10754fa1cf0026200c063, type: 3}
+    spriteId: 190
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 101
+    prefarb: {fileID: 3577043265903793213, guid: 66ae302aec8e94c4b9b30b2b135a6fb7, type: 3}
+    spriteId: 194
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 102
+    prefarb: {fileID: 3577043265903793213, guid: fcfffcf73dce768409b3b8e1e32b416b, type: 3}
+    spriteId: 195
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: a6a7cf77f799c094b99b824329709d92, type: 3}
+    needSize: {x: 1, y: 1}
+    placeOffset: {x: 0.5, y: 0.5, z: 0}
+    canSpam: 1
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 103
+    prefarb: {fileID: 3577043265903793213, guid: 21524c84ac8233a4c9d355bb2d0c0d1d, type: 3}
+    spriteId: 196
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: a6a7cf77f799c094b99b824329709d92, type: 3}
+    needSize: {x: 1, y: 1}
+    placeOffset: {x: 0.5, y: 0.5, z: 0}
+    canSpam: 1
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 104
+    prefarb: {fileID: 3577043265903793213, guid: 23b21222621408c479cf39d2a8dbf749, type: 3}
+    spriteId: 197
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: c1cd546d4d7d5594faf6bd72e9b7d18e, type: 3}
+    needSize: {x: 3, y: 0}
+    placeOffset: {x: 0, y: 0.2, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 105
+    prefarb: {fileID: 3577043265903793213, guid: b8e7994250548b647b246758a1226761, type: 3}
+    spriteId: 199
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 86c78b899c77f774aa91787d73083183, type: 3}
+    needSize: {x: 3, y: 0}
+    placeOffset: {x: 0, y: 0.2, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 106
+    prefarb: {fileID: 263130134466274520, guid: b106af5f82fa3414ebffc17e989d4889, type: 3}
+    spriteId: 0
+    tilesetType: 0
+    keepOriginalSprite: 1
+    canRespawn: 0
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 3577043265903793213, guid: 0503e8271f7f8e24da0b6e28df944b69, type: 3}
+    needSize: {x: 1, y: 0}
+    placeOffset: {x: 0.5, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 107
+    prefarb: {fileID: 2059658956852847841, guid: 64601c23bd4a4f6478325c66ebe639cc, type: 3}
+    spriteId: 114
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 108
+    prefarb: {fileID: 2059658956852847841, guid: 7e7e48766f71f474c95491f5ade92c0f, type: 3}
+    spriteId: 113
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 109
+    prefarb: {fileID: 3577043265903793213, guid: f1724d44fddb14642835560ed8ce78df, type: 3}
+    spriteId: 201
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 110
+    prefarb: {fileID: 2059658956852847841, guid: 53d5a78264620a74aa4a1b8cfa0be1de, type: 3}
+    spriteId: 26
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 2059658956852847841, guid: 378d79a1bb15cdc43b13f4a8096105a7, type: 3}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 111
+    prefarb: {fileID: 3577043265903793213, guid: 444610ff2b0964741ba06c1aaa023f38, type: 3}
+    spriteId: 7
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 0
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 4
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0.5, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 112
+    prefarb: {fileID: 3577043265903793213, guid: 83ab01bb2930b7644aea5ad1704597d1, type: 3}
+    spriteId: 208
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 1
+    darkGlowMaskSize: {x: 4.5, y: 4.5, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 113
+    prefarb: {fileID: 3577043265903793213, guid: bb32f07b5a42a804c94da0ecf3ce21a9, type: 3}
+    spriteId: 112
+    tilesetType: 0
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 4.5, y: 4.5, z: 0}
+    sortType: 4
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 0
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 114
+    prefarb: {fileID: 3577043265903793213, guid: 512b4964dba694345a104eaaa629db35, type: 3}
+    spriteId: 209
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 115
+    prefarb: {fileID: 3577043265903793213, guid: 67de5e3a4499c994a8b12554004d164d, type: 3}
+    spriteId: 210
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 0
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 116
+    prefarb: {fileID: 2059658956852847841, guid: 4276820dac166a14fb913dcf773bdfbe, type: 3}
+    spriteId: 117
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 0
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 117
+    prefarb: {fileID: 3577043265903793213, guid: 427678490cf6a7a4eb26ba7cf8878abd, type: 3}
+    spriteId: 211
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 0
+    canPutInPipe: 0
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 0, y: 0, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: -0.5, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 1
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 118
+    prefarb: {fileID: 3577043265903793213, guid: 83ab01bb2930b7644aea5ad1704597d1, type: 3}
+    spriteId: 208
+    tilesetType: 5
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 1
+    canSpawnInRandomizer: 1
+    glowInDark: 1
+    darkGlowMaskSize: {x: 2, y: 2, z: 0}
+    sortType: 0
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0, y: 0, z: 0}
+    canSpam: 1
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  - id: 119
+    prefarb: {fileID: 2059658956852847841, guid: 261b070817188b449895ae3a6a791a55, type: 3}
+    spriteId: 123
+    tilesetType: 1
+    keepOriginalSprite: 0
+    canRespawn: 1
+    canPutInItemBlock: 1
+    canPutInPipe: 1
+    maxPipeSpawnSize: 3
+    canSpawnInRandomizer: 1
+    glowInDark: 0
+    darkGlowMaskSize: {x: 2, y: 2, z: 0}
+    sortType: 2
+    customEditorPrefarb: {fileID: 0}
+    needSize: {x: 0, y: 0}
+    placeOffset: {x: 0.4, y: 0.4, z: 0}
+    canSpam: 0
+    smallIcon: 1
+    onlyForSMB1: 0
+    dontDisplayButtonInEditor: 0
+    dontRenderInPlayMode: 0
+    cantDestroy: 0
+    blockGUICustomSize: {x: 0, y: 0, z: 0}
+  levelEditorBlocksOrder: 0000000001000000460000006000000003000000040000004c0000000500000009000000610000000a0000000b0000000c0000000d0000000e0000007200000073000000100000006200000064000000110000001400000015000000160000005c000000190000001b00000027000000470000005e000000290000002a0000002b0000002c0000002d00000030000000320000003e0000003f0000005000000040000000410000004200000048000000490000004a0000004e000000560000006300000065000000660000006700000068000000690000006a0000006d000000700000007500000076000000
+  levelEditorItemsOrder: 060000000700000008000000120000001300000017000000180000002e0000002f00000044000000450000005f0000005d000000
+  levelEditorEnemiesOrder: 020000003b000000740000000f0000001a0000001c0000001d0000001e0000001f0000003c0000006e0000002000000021000000330000003400000035000000360000003700000038000000390000003a0000003d00000054000000550000005700000058000000590000005a0000006b0000006c000000770000005b000000
+  levelEditorDecoOrder: 220000002300000024000000250000002600000031000000430000004b0000004f000000
+  levelEditorSpecialOrder: 4d0000005100000052000000530000006f00000071000000
+  temp: 0000000001000000460000000300000005000000040000000a000000090000000c0000000d0000000e000000100000006200000064000000140000001500000016000000190000001b00000027000000470000005e000000290000002a0000002b0000002d00000030000000320000003e0000003f00000040000000410000004200000048000000490000004a0000004c0000004d0000004e00000050000000560000005c00000060000000610000006300000065000000660000006700000068000000690000006a000000

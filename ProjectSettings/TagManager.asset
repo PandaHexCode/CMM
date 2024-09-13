@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DestroyableBlock
+  - GeneratedFromPSwitch
+  - EditorBlockWidget
+  - GrabableBomb
+  - GrabParent
+  - GrabNoWand
+  - CantUseTrampoline
+  - CU
+  - PSwitchBlock
+  - PSwitchBlock1
+  - Lift
+  - R
+  - Undefined
+  - S
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - FireBall
+  - DespawnZone
+  - BlockField
+  - Cursor
+  - Enemy
+  - Coin
+  - SGround
+  - GroundNotWand
+  - Shell
+  - SpawnZone
+  - PowerStar
+  - Entity
+  - OnlyPlayerCollider
+  - DamageWand
+  - EnemyGround
+  - PiranhaFireBall
+  - FireEnemy
+  - OneWayWall
+  - GrabableObject
+  - IceGround
+  - SFakeWall
+  - StandShell
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3278721219
+    locked: 0
+  - name: Deco
+    uniqueID: 3136947033
+    locked: 0
+  - name: BeforePlayer
+    uniqueID: 2104620637
+    locked: 0
+  - name: Player
+    uniqueID: 155026845
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SpriteGui
+    uniqueID: 3350857495
+    locked: 0
+  - name: Transision
+    uniqueID: 4085703087
+    locked: 0
+  - name: EntityDarkMask
+    uniqueID: 1366094953
+    locked: 0

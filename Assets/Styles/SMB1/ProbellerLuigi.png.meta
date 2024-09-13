@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 231e042555fc0be43aadbc195796714c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6154217366218490202
+    second: ProbellerMario_0
+  - first:
+      213: -6093982077089072972
+    second: ProbellerMario_1
+  - first:
+      213: -4396527532434214942
+    second: ProbellerMario_2
+  - first:
+      213: 3881279151468898143
+    second: ProbellerMario_3
+  - first:
+      213: 8068702294776885187
+    second: ProbellerMario_4
+  - first:
+      213: -8281217587633884740
+    second: ProbellerMario_5
+  - first:
+      213: -4574457675726488329
+    second: ProbellerMario_6
+  - first:
+      213: 9037741873550717018
+    second: ProbellerMario_7
+  - first:
+      213: -8545234563449658264
+    second: ProbellerMario_8
+  - first:
+      213: 3668570157547934234
+    second: ProbellerMario_9
+  - first:
+      213: -1400709462809635372
+    second: ProbellerMario_10
+  - first:
+      213: 2957315269999921933
+    second: ProbellerMario_11
+  - first:
+      213: 2206920877682664558
+    second: ProbellerMario_12
+  - first:
+      213: 5208666645903924889
+    second: ProbellerMario_13
+  - first:
+      213: 1662303760780302772
+    second: ProbellerMario_14
+  - first:
+      213: -549457123918953543
+    second: ProbellerMario_15
+  - first:
+      213: 8291034868913254506
+    second: ProbellerMario_16
+  - first:
+      213: 4388671311584006221
+    second: ProbellerMario_17
+  - first:
+      213: -3617410723805237300
+    second: ProbellerMario_18
+  - first:
+      213: -5529181998668746109
+    second: ProbellerMario_19
+  - first:
+      213: 7725585976622470920
+    second: ProbellerMario_20
+  - first:
+      213: -7594102417039220549
+    second: ProbellerMario_21
+  - first:
+      213: 1745328368353456968
+    second: ProbellerMario_22
+  - first:
+      213: 6649647543835066652
+    second: ProbellerMario_23
+  - first:
+      213: 605701094781280437
+    second: ProbellerMario_24
+  - first:
+      213: -577275729090470500
+    second: ProbellerMario_25
+  - first:
+      213: 8651030328328104492
+    second: ProbellerMario_26
+  - first:
+      213: -296944033368030925
+    second: ProbellerMario_27
+  - first:
+      213: -8596550705479305602
+    second: ProbellerMario_28
+  - first:
+      213: -4445765577551623757
+    second: ProbellerMario_29
+  - first:
+      213: -3539230604444802379
+    second: ProbellerMario_30
+  - first:
+      213: 6371548448226020257
+    second: ProbellerMario_31
+  - first:
+      213: 2152036412175897737
+    second: ProbellerMario_32
+  - first:
+      213: 1481754952138889655
+    second: ProbellerMario_33
+  - first:
+      213: 1180965790285053723
+    second: ProbellerMario_34
+  - first:
+      213: 7207789200241822015
+    second: ProbellerMario_35
+  - first:
+      213: 2977368131209255854
+    second: ProbellerMario_36
+  - first:
+      213: -1501953104341671021
+    second: ProbellerMario_0
+  - first:
+      213: 8572022136461943446
+    second: ProbellerMario_1
+  - first:
+      213: -8790888018151384933
+    second: ProbellerMario_2
+  - first:
+      213: 3808003968354750959
+    second: ProbellerMario_3
+  - first:
+      213: 6085030717195025862
+    second: ProbellerMario_4
+  - first:
+      213: -4293665290591244468
+    second: ProbellerMario_5
+  - first:
+      213: -3053019944620624517
+    second: ProbellerMario_6
+  - first:
+      213: 3983297740778733000
+    second: ProbellerMario_7
+  - first:
+      213: 4008481257342302018
+    second: ProbellerMario_8
+  - first:
+      213: -2425827686826119559
+    second: ProbellerMario_9
+  - first:
+      213: 5686187415531933228
+    second: ProbellerMario_10
+  - first:
+      213: 5807431261256503285
+    second: ProbellerMario_11
+  - first:
+      213: -5114000289059729275
+    second: ProbellerMario_12
+  - first:
+      213: -811338319508685818
+    second: ProbellerMario_13
+  - first:
+      213: 335872921375150132
+    second: ProbellerMario_14
+  - first:
+      213: 6044851828402129771
+    second: ProbellerMario_15
+  - first:
+      213: 6897634760185485285
+    second: ProbellerMario_16
+  - first:
+      213: -3500200813677608002
+    second: ProbellerMario_17
+  - first:
+      213: 7331186093177310279
+    second: ProbellerMario_18
+  - first:
+      213: 8616770937599598938
+    second: ProbellerMario_19
+  - first:
+      213: -5310905248782869055
+    second: ProbellerMario_20
+  - first:
+      213: -6623876362909443561
+    second: ProbellerMario_21
+  - first:
+      213: -8048941237455738965
+    second: ProbellerMario_22
+  - first:
+      213: -7202533434461880435
+    second: ProbellerMario_23
+  - first:
+      213: -2771371316105844010
+    second: ProbellerMario_24
+  - first:
+      213: 5742654496476496553
+    second: ProbellerMario_25
+  - first:
+      213: 2579849106620242906
+    second: ProbellerMario_26
+  - first:
+      213: 2011402018584241279
+    second: ProbellerMario_27
+  - first:
+      213: 8738572713189194607
+    second: ProbellerMario_28
+  - first:
+      213: 2769172034780682473
+    second: ProbellerMario_29
+  - first:
+      213: 5057693306725914177
+    second: ProbellerMario_30
+  - first:
+      213: 7138320215791915786
+    second: ProbellerMario_31
+  - first:
+      213: 1881081868739071277
+    second: ProbellerMario_32
+  - first:
+      213: -4072544149716389910
+    second: ProbellerMario_33
+  - first:
+      213: 646809870709152655
+    second: ProbellerMario_34
+  - first:
+      213: 4477852923014497478
+    second: ProbellerMario_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProbellerMario_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3936b6afb9df72be0800000000000000
+      internalID: -1501953104341671021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692699277b0f5f670800000000000000
+      internalID: 8572022136461943446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9859d17ced700680800000000000000
+      internalID: -8790888018151384933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1101dfe6fb8d430800000000000000
+      internalID: 3808003968354750959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdffb9823f527450800000000000000
+      internalID: 6085030717195025862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f62e1ca26d964c0800000000000000
+      internalID: -4293665290591244468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7574b4398e71a5d0800000000000000
+      internalID: -3053019944620624517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd7bb9d034874730800000000000000
+      internalID: 3983297740778733000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f2b8377cf0a730800000000000000
+      internalID: 4008481257342302018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eeb68429ab55ed0800000000000000
+      internalID: -2425827686826119559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ec315e35569ee40800000000000000
+      internalID: 5686187415531933228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff41b886f3289050800000000000000
+      internalID: 5807431261256503285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580995d05db6709b0800000000000000
+      internalID: -5114000289059729275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cb509d81c8db4f0800000000000000
+      internalID: -811338319508685818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301d3874a249a400800000000000000
+      internalID: 335872921375150132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b87cff5b0a3e350800000000000000
+      internalID: 6044851828402129771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e71e37e44259bf50800000000000000
+      internalID: 6897634760185485285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 35
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb38632a7e9cc6fc0800000000000000
+      internalID: -3500200813677608002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c0e12d8ea9db560800000000000000
+      internalID: 7331186093177310279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51a88e938be49770800000000000000
+      internalID: 8616770937599598938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd1a8a80dfdb46b0800000000000000
+      internalID: -5310905248782869055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a1da0fa834314a0800000000000000
+      internalID: -6623876362909443561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba72573f69a6c4090800000000000000
+      internalID: -8048941237455738965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f760480067b0c90800000000000000
+      internalID: -7202533434461880435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daedcaa87c1a89d0800000000000000
+      internalID: -2771371316105844010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a20842b6d102bf40800000000000000
+      internalID: 5742654496476496553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb553608177dc320800000000000000
+      internalID: 2579849106620242906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74a732aa7fe9eb10800000000000000
+      internalID: 2011402018584241279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b309d6595a54970800000000000000
+      internalID: 8738572713189194607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e85c0f3b431e6620800000000000000
+      internalID: 2769172034780682473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146d4420449803640800000000000000
+      internalID: 5057693306725914177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0354437a68601360800000000000000
+      internalID: 7138320215791915786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dce934ef1fa1a10800000000000000
+      internalID: 1881081868739071277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef2f005caa6b77c0800000000000000
+      internalID: -4072544149716389910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd5d4862ee9f800800000000000000
+      internalID: 646809870709152655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerMario_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c449b04287842e30800000000000000
+      internalID: 4477852923014497478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 6eec35303b2aa734aaa6662769d91ba0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 679681495962449312
+    second: GUIStandartFont_0
+  - first:
+      213: 28368138067816165
+    second: GUIStandartFont_1
+  - first:
+      213: -6808194701150071093
+    second: GUIStandartFont_2
+  - first:
+      213: 2565437619073399311
+    second: GUIStandartFont_3
+  - first:
+      213: -8748094540631353576
+    second: GUIStandartFont_4
+  - first:
+      213: -6469246867289111679
+    second: GUIStandartFont_5
+  - first:
+      213: 1943742814837677693
+    second: GUIStandartFont_6
+  - first:
+      213: -7807542167047182235
+    second: GUIStandartFont_7
+  - first:
+      213: 1855908524485962528
+    second: GUIStandartFont_8
+  - first:
+      213: -914764703451670315
+    second: GUIStandartFont_9
+  - first:
+      213: -8520600673903248607
+    second: GUIStandartFont_10
+  - first:
+      213: -3119053991596536883
+    second: GUIStandartFont_11
+  - first:
+      213: 7212204921509679820
+    second: GUIStandartFont_12
+  - first:
+      213: -4541798550411678747
+    second: GUIStandartFont_13
+  - first:
+      213: -8362022031966179216
+    second: GUIStandartFont_14
+  - first:
+      213: 6440297995547944438
+    second: GUIStandartFont_15
+  - first:
+      213: 7688173304921220038
+    second: GUIStandartFont_16
+  - first:
+      213: 8646643263087606140
+    second: GUIStandartFont_17
+  - first:
+      213: -7957091553286544015
+    second: GUIStandartFont_18
+  - first:
+      213: 6170495110679355560
+    second: GUIStandartFont_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUIStandartFont_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 798
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a57f3f28b6be6900800000000000000
+      internalID: 679681495962449312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 157
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eea878dba8c46000800000000000000
+      internalID: 28368138067816165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 525
+        width: 119
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6d04c9dfe6481a0800000000000000
+      internalID: -6808194701150071093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 436
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a3b4a1ce34a9320800000000000000
+      internalID: 2565437619073399311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 445
+        width: 110
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817522c5d56889680800000000000000
+      internalID: -8748094540631353576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 444
+        width: 138
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1838ceeef3e9836a0800000000000000
+      internalID: -6469246867289111679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 440
+        width: 132
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1e1daacf89fa10800000000000000
+      internalID: 1943742814837677693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 439
+        width: 97
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568e444e3c906a390800000000000000
+      internalID: -7807542167047182235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 156
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bea9158f281c910800000000000000
+      internalID: 1855908524485962528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 266
+        width: 198
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d892bd495a1e43f0800000000000000
+      internalID: -914764703451670315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 115
+        width: 167
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bfa07c4deb0c980800000000000000
+      internalID: -8520600673903248607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 7
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbcf9b8be4e6b4d0800000000000000
+      internalID: -3119053991596536883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 106
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc298e90a26e61460800000000000000
+      internalID: 7212204921509679820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 5
+        width: 124
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe359284a48f0c0800000000000000
+      internalID: -4541798550411678747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 25
+        width: 408
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0707aac044124fb80800000000000000
+      internalID: -8362022031966179216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_15
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 388
+        width: 259
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5ab40a7e8806950800000000000000
+      internalID: 6440297995547944438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_16
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 682
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3687b13e0e1ba60800000000000000
+      internalID: 7688173304921220038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1
+        width: 464
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c797cd36c3c0ff770800000000000000
+      internalID: 8646643263087606140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_18
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2
+        width: 130
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1752819046bb29190800000000000000
+      internalID: -7957091553286544015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIStandartFont_19
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 545
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e3584c9002a550800000000000000
+      internalID: 6170495110679355560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

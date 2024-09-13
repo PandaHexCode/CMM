@@ -1,0 +1,1008 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d46329308afa3e46b5417b4b76c33d0, type: 3}
+  m_Name: MysteryCostumesManager
+  m_EditorClassIdentifier: 
+  mysteryCostumes:
+  - name: ModernMario
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 0
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -5306406694675464725, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -1669062137132177147, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -3328240588191684102, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7326989757732547277, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -1669062137132177147, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -3328240588191684102, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7326989757732547277, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 1566495381110257519, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3850142485812217601, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2845909431726382936, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 565935768013166737, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -1071798759217243553, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -4074317647772068257, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -53342511582658386, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -6022135993367216788, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -6022135993367216788, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: 8698808166343271802, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: -3530932600692441939, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 3764607288047159123, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly: []
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: Peach
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 0
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -7989382572934342399, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -8706713640472469853, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 1039411645709324714, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5783678859536612970, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -8706713640472469853, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 1039411645709324714, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5783678859536612970, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: -3544953993168539551, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -8498333632116199968, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5498795016734373762, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7927505316795426852, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2048592443742293867, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 1517629128176691418, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -4601955348678764685, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3895010659711375895, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -5176930510800118756, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -2545270354076678707, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: -2551750067784461917, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 5688551681011582240, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: -3329477828237643976, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly: []
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: ModernLuigi
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 0
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: 2761634436489891715, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -1161018639680613905, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5453800152121967892, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 8632387969551322020, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -1161018639680613905, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5453800152121967892, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 8632387969551322020, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: -2460079793824632595, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 8930345474998115863, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 630940437509914473, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -4528397807232810376, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4735387785893259574, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -1347486252062105746, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -8449461426672198141, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -3529251696228216716, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -3293922963692795334, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -3293922963692795334, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: -6091894384700211432, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: -6200177965902168836, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: -8573624673050613796, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly: []
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: Bowser
+    isUnlockable: 1
+    unlockID: 1
+    isUnused: 0
+    isSpecial: 0
+    specialID: 0
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: 4302466037950513780, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: 8991777539641960063, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -8401754465204599751, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 8031173416589876478, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: 8991777539641960063, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -8401754465204599751, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 8031173416589876478, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 2451724021601041402, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -687544297487979230, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3148551525024623064, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: 1804424584736691434, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2998684490230126985, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: 7162986505801134971, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -7652370907192853809, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: -7512960107294582426, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 7449795583599258737, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: -1783071474956395745, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly: []
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: QuestionBlock
+    isUnlockable: 1
+    unlockID: 2
+    isUnused: 0
+    isSpecial: 0
+    specialID: 0
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -5244248780101253972, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -6076219526958878515, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5928685266326318864, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4856937951086749518, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -6076219526958878515, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5928685266326318864, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4856937951086749518, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 4447306706101205644, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -1677921423581872085, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6185819872035867028, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -9044126970718145575, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -9044126970718145575, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: 3481442650873307711, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 6279854634632863486, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 4844407542176924345, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly: []
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: Toad
+    isUnlockable: 1
+    unlockID: 3
+    isUnused: 0
+    isSpecial: 0
+    specialID: 0
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -4915546468881982825, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -4153332981499635961, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -3798072290925003450, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 9152077325070236863, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -4153332981499635961, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -3798072290925003450, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 9152077325070236863, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: -1743028821780000444, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: 6137313412562973452, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5787657416797027881, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: 9127372958759962135, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -170930865645884375, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: -6031965962605401784, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 5617979493888329594, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 1875914119894481776, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly: []
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: GoldMario
+    isUnlockable: 1
+    unlockID: 4
+    isUnused: 0
+    isSpecial: 0
+    specialID: 0
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: 8215860760052749452, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -8399029136417213794, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2635847015570553617, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7869412310341331623, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -750919522484969131, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -5577279956616377791, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 537609301760212046, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: -1743028821780000444, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 6409118736088824143, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -2243183181653078636, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -5663706129828461699, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -8433244325231185357, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -8433244325231185357, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: 3055958134308121975, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: -4178977859053224683, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: -1661372843982879052, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly: []
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: BuilderMario
+    isUnlockable: 1
+    unlockID: 5
+    isUnused: 0
+    isSpecial: 0
+    specialID: 0
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -2150282070813499612, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -7793432248682766172, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -8039515459447715912, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 6433455192565692310, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -7793432248682766172, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -8039515459447715912, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 6433455192565692310, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 5224499525929271190, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -486583775275951693, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2500161277960325539, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -8560451158506138036, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -8560451158506138036, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: 8067581054832785091, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: -2864363624397030806, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: -8999607038836168988, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly: []
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: Yoshi
+    isUnlockable: 1
+    unlockID: 8
+    isUnused: 0
+    isSpecial: 0
+    specialID: 0
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -3895173857993722370, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -5552901065592359262, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5230745701949099255, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 6194509628038466328, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -5552901065592359262, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5230745701949099255, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 6194509628038466328, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 3084645294929805611, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -2944646263094412773, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 8737634721387279749, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -6860145382378729815, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: 2655325965628388034, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: 39662003203438804, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 7008288505438894089, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: -9054288387497749704, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly: []
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: ShyGuy
+    isUnlockable: 1
+    unlockID: 6
+    isUnused: 0
+    isSpecial: 0
+    specialID: 0
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: 5458846791465997047, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -6658788052758005741, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6686888834197851996, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2655806404643058332, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -6658788052758005741, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6686888834197851996, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2655806404643058332, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 7732111913273753724, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -2653704396293288010, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7193204816631479395, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -3667646072685152044, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: 952930256743365175, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: -6891309249359824190, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 8183369300383464372, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 1175384125829764830, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly: []
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: Kirby
+    isUnlockable: 1
+    unlockID: 7
+    isUnused: 0
+    isSpecial: 1
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: 4902731806037585162, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      walk:
+      - {fileID: -7783437289264583234, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -4139457864091923712, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -8858330034647657543, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -6879645791962335640, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      run:
+      - {fileID: -7783437289264583234, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -4139457864091923712, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -8858330034647657543, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -6879645791962335640, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      swim:
+      - {fileID: 6601583565285711298, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      climb:
+      - {fileID: -4139457864091923712, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -8858330034647657543, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      jump: {fileID: 6601583565285711298, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      fall: {fileID: 6601583565285711298, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      runJump: {fileID: 0}
+      runReturn: {fileID: -6879645791962335640, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      duck: {fileID: 6184774690786313677, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      death:
+      - {fileID: 0}
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 6865388993796895993, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: KoopaTroopa
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -2490119961335956254, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: 6100105302487021111, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4441704330498417067, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -1664434529688767531, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -4157463862801727687, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 6669841819429654252, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -5687960964149546593, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: -2258730215256554894, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4950775842548188, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7042330274511485673, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 1398383500027923340, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2528725520471618677, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4853286383511410714, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: 3680853957093493982, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -5602827002201993639, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -7743332825133694822, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: 5104980888920042738, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: -7743332825133694822, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: 4853286383511410714, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 5104980888920042738, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: -3976447356247947248, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: Waluigi
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -7793428389784773474, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -6059347656210149922, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4824332938826143637, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4125581186088612895, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -6059347656210149922, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4824332938826143637, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4125581186088612895, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: -487167973826539835, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -3615420442184049999, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 8533947973561124451, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6614880904349178010, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3096751913356398828, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2731669686119372855, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -4663450098549780636, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 978888328951159117, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: 3987260555229505471, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -7137418138302459875, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 3987260555229505471, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: -1232582897503495143, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 8413401706966215839, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: -1001252060696790611, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: DK
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: 4394449479305648848, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: 1867941125060466545, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5594265357319814244, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -223420729987851063, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: 1867941125060466545, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5594265357319814244, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -223420729987851063, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 7813516912369315622, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2215373662659808627, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6487347680316397932, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 624447196591924424, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2482929951904248597, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6286709429043034516, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: 879200267851591752, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6914273863791032260, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: 8508512240742085132, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -808231010978769498, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 8508512240742085132, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: -8335009582390427489, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: -1896586635253687412, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: -5773124777087223614, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: DKJunior
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: 6431155722980007398, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -4963337176949416859, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -903346021911122855, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3857064088544243806, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -4963337176949416859, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -903346021911122855, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3857064088544243806, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 2455868326806042853, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 1610862650261113019, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2578291075240641737, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -8649618947025090022, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 9091611298752216504, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7884195621662845456, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: 8819148850927049407, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -1194730912900469322, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -6406590190679245598, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: 5167755263351169949, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: -6406590190679245598, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: 5683312377995943418, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: -7633481535938515232, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 4244745985836060562, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: Olimar
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -8017296783406538797, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: 486388609100737913, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4884638135659570552, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -8222844568737534901, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: 486388609100737913, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4884638135659570552, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -8222844568737534901, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 3483809515717284382, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2622573039999292608, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 8379442464399530665, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -4108689269224847556, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2676760888442503360, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 6321865307131386684, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: 7128862190445624634, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3462329006127368941, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -1968052823392832740, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: 1327653693981030173, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: -1968052823392832740, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: -4574368285827550210, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 6261853454430337306, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 5372868022006161126, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: Pikmins
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: 8494532696246961412, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -8870877129311063597, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2664858761357301964, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -4274311399829694284, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -8870877129311063597, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2664858761357301964, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -4274311399829694284, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: -8655609530602568489, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -3626114429522427746, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7232976235436986, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4370905221854623759, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -3223850788453060056, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 7832383772352292076, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: 3093616655935583337, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 8574789562039441910, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: 5110708540328549986, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: 9129781257109612793, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 5110708540328549986, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: 556288095234365924, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 8580852560941597248, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: -873316796860866020, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: SplatoonGreen
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -2848092494428770398, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -7682709619896238865, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -418153427718270447, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -9218416725101937957, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -7682709619896238865, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -418153427718270447, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -9218416725101937957, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: -1031795216475617386, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 5582564210661432176, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6014682480278218372, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 4739692445756097299, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -3147758273993586998, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 7912028395641679031, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: 2865858449682859791, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 6822013112246269101, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: 6779779571804872022, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -6566990500055014201, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: 6779779571804872022, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: -3598199175482510589, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: -7356600427800239668, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 5527185574445088410, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: SplatoonOrange
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: 7814353150822489574, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -283530460247511185, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -804768953941265826, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 1889633485358759810, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -1135387774343812519, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 7183290162382763017, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -509202870088302934, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 6742554587791776196, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 529820467783162059, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2019170281920589022, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2958260261305543223, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -4571518538567471325, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7923504733497620636, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: 1135355948320051249, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -5009762626580326326, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -7187682670277506322, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: 1686978142201868738, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: -7187682670277506322, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: 2725239718239644565, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: -4413562577721000785, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 8342423063970289569, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: WIiFitBoard
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: 4694825656496149045, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -5115560195101273839, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2837598032538912489, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 687709267402235626, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -5115560195101273839, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 2837598032538912489, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 687709267402235626, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: -2017503090426178940, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -3376463909112133611, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7093746334819549328, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2801475526719237139, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 6504033270725548105, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6838076949893509982, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -6676911492939363970, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3660382215394663527, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -1205574902359110131, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: 7432570939447369270, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: -1205574902359110131, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: -3302130077852859142, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: -8444385995593964207, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 325192683236789132, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: Car
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 0
+    specialID: 1
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -7781590467898647084, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: 3726107578708172344, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 1322202956445763786, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 948653335291802389, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: 3726107578708172344, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 1322202956445763786, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 948653335291802389, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: -7500331977742263156, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6795739783099220946, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -6449603945079190047, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -1961723977372452060, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 593492282939855354, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -915662460736277333, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: 2059524076916829753, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -5917514024265756944, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -7297439423310447128, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: 1194026407783766136, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: -7297439423310447128, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: -3620760107981806114, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: -5883796481580051845, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 3302592484764234174, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  - name: GunMario
+    isUnlockable: 0
+    unlockID: 0
+    isUnused: 0
+    isSpecial: 1
+    specialID: 2
+    isPatreon: 0
+    sprites:
+      stand:
+      - {fileID: -1403115774838242643, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      walk:
+      - {fileID: -2428515097133137209, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2571894033210155062, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3412502139975508353, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      run:
+      - {fileID: -2428515097133137209, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -2571894033210155062, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3412502139975508353, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      swim:
+      - {fileID: 189992167535081446, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -810875511754573769, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 7171705684692333454, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -7323055016926573781, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: -5810400932771742529, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 6160467150544191893, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      climb:
+      - {fileID: -6339917396537899613, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      - {fileID: 3944983847129349310, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      jump: {fileID: -590179069383155653, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      fall: {fileID: -590179069383155653, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runJump: {fileID: -590179069383155653, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      runReturn: {fileID: -649375229545795769, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      duck: {fileID: 8028490787517372594, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      death: []
+      kick: {fileID: 0}
+      throwFireBall: {fileID: 0}
+      acornFly: {fileID: 0}
+      mysteryExtra: {fileID: 6785451196601569201, guid: 7ad9b2c824d316d4889b8291427696f3, type: 3}
+      probellerFly:
+      - {fileID: -3138068535844345537, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      - {fileID: -7330792549491528975, guid: c90be4cfe6e5a154bab69ca38cec63ec, type: 3}
+      smashFlowerSmash: []
+      spin: []
+      grabStand: []
+      grabWalk: []
+      grabSwim: []
+      grabDuck: {fileID: 0}
+  buttonSprites:
+  - {fileID: 6133266221923694166, guid: bc951bb278d8b5d4dbe187ef0c446eea, type: 3}
+  - {fileID: 171916383592657234, guid: bc951bb278d8b5d4dbe187ef0c446eea, type: 3}
+  - {fileID: 6030655366709020140, guid: bc951bb278d8b5d4dbe187ef0c446eea, type: 3}

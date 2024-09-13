@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: a98b675b01e25554fbc99c35f8e7dd9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6282686536417709473
+    second: BackgroundButtons_0
+  - first:
+      213: 6068759375915588147
+    second: BackgroundButtons_1
+  - first:
+      213: -3701645806312300836
+    second: BackgroundButtons_2
+  - first:
+      213: 528775453147650174
+    second: BackgroundButtons_3
+  - first:
+      213: -3823823338390286461
+    second: BackgroundButtons_4
+  - first:
+      213: -6573783982533144317
+    second: BackgroundButtons_5
+  - first:
+      213: 3432635429190718582
+    second: BackgroundButtons_6
+  - first:
+      213: 8968144434721296232
+    second: BackgroundButtons_7
+  - first:
+      213: 313064159243726074
+    second: BackgroundButtons_8
+  - first:
+      213: 2678305473015091886
+    second: BackgroundButtons_9
+  - first:
+      213: -6632543756433183757
+    second: BackgroundButtons_10
+  - first:
+      213: -6978664599972277597
+    second: BackgroundButtons_0
+  - first:
+      213: -7784695226799442105
+    second: BackgroundButtons_1
+  - first:
+      213: 5788521296234379246
+    second: BackgroundButtons_2
+  - first:
+      213: 3529672524332705379
+    second: BackgroundButtons_3
+  - first:
+      213: 8512748028376548888
+    second: BackgroundButtons_4
+  - first:
+      213: -2474152388559952209
+    second: BackgroundButtons_5
+  - first:
+      213: -6993626725647833766
+    second: BackgroundButtons_6
+  - first:
+      213: 4127542848100675943
+    second: BackgroundButtons_7
+  - first:
+      213: 2528185315015769078
+    second: BackgroundButtons_8
+  - first:
+      213: -6058205072638478909
+    second: BackgroundButtons_9
+  - first:
+      213: -2846236978258938822
+    second: BackgroundButtons_10
+  - first:
+      213: -4725141331709442239
+    second: BackgroundButtons_11
+  - first:
+      213: -857157308001989111
+    second: BackgroundButtons_11
+  - first:
+      213: -562423052038430857
+    second: BackgroundButtons_12
+  - first:
+      213: 950317967714435123
+    second: BackgroundButtons_13
+  - first:
+      213: -3743921491565164193
+    second: BackgroundButtons_14
+  - first:
+      213: 6021309183628067897
+    second: BackgroundButtons_15
+  - first:
+      213: 2370622759599314416
+    second: BackgroundButtons_16
+  - first:
+      213: -5424303517939413909
+    second: BackgroundButtons_17
+  - first:
+      213: 5208345670471638239
+    second: BackgroundButtons_18
+  - first:
+      213: 7176999773828705925
+    second: BackgroundButtons_19
+  - first:
+      213: 2734732886101369194
+    second: BackgroundButtons_20
+  - first:
+      213: -7112123744924587182
+    second: BackgroundButtons_21
+  - first:
+      213: 7378569113096639111
+    second: BackgroundButtons_22
+  - first:
+      213: 1172497431044180866
+    second: BackgroundButtons_23
+  - first:
+      213: 3069278846891347455
+    second: BackgroundButtons_24
+  - first:
+      213: -2076494618620017615
+    second: BackgroundButtons_25
+  - first:
+      213: 4050285739366631991
+    second: BackgroundButtons_26
+  - first:
+      213: 4461220295653644995
+    second: BackgroundButtons_27
+  - first:
+      213: -5236890035211212108
+    second: BackgroundButtons_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackgroundButtons_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 716
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a21f08558dc62f90800000000000000
+      internalID: -6978664599972277597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 713
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747b0f1bfe437f390800000000000000
+      internalID: -7784695226799442105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 713
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee775d43375f45050800000000000000
+      internalID: 5788521296234379246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 717
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ae4ab57aebf030800000000000000
+      internalID: 3529672524332705379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_4
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 716
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8168ac5ba3b532670800000000000000
+      internalID: 8512748028376548888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_5
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 717
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa623bfd28b0aadd0800000000000000
+      internalID: -2474152388559952209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 612
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55251efb85a1fe90800000000000000
+      internalID: -6993626725647833766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 611
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761be380a5af74930800000000000000
+      internalID: 4127542848100675943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_8
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 610
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbbfdb262be51320800000000000000
+      internalID: 2528185315015769078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 615
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5f9ec859eeceba0800000000000000
+      internalID: -6058205072638478909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_10
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 617
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a347b4c5c822088d0800000000000000
+      internalID: -2846236978258938822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_11
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 617
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e49e348f3ca14f0800000000000000
+      internalID: -857157308001989111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 519
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f12c9c63fd138f0800000000000000
+      internalID: -562423052038430857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 517
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304a491825303d00800000000000000
+      internalID: 950317967714435123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 516
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59ce445d3bea0cc0800000000000000
+      internalID: -3743921491565164193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_15
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 525
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934c2fcdcccff8350800000000000000
+      internalID: 6021309183628067897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_16
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 526
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f59f5af6d426e020800000000000000
+      internalID: 2370622759599314416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_17
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 521
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cc15b80b009b4b0800000000000000
+      internalID: -5424303517939413909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 420
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcd7e3dac2c74840800000000000000
+      internalID: 5208345670471638239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 412
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e6e18d443d99360800000000000000
+      internalID: 7176999773828705925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_20
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 416
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a6a71219b3f520800000000000000
+      internalID: 2734732886101369194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_21
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 414
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b2629b229ac4d90800000000000000
+      internalID: -7112123744924587182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_22
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 413
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7825bc8d381f56660800000000000000
+      internalID: 7378569113096639111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_23
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 412
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b427d833c854010800000000000000
+      internalID: 1172497431044180866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 322
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd449979d4489a20800000000000000
+      internalID: 3069278846891347455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_25
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 341
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134c427652fce23e0800000000000000
+      internalID: -2076494618620017615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 298
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a47cdab61853830800000000000000
+      internalID: 4050285739366631991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 716
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad23be83079ed30800000000000000
+      internalID: 4461220295653644995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundButtons_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 202
+        width: 136
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bae37b5244d257b0800000000000000
+      internalID: -5236890035211212108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

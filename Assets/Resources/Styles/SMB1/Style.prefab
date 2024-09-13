@@ -1,0 +1,1517 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3794388228055143356
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1792323734891358869}
+  - component: {fileID: -4131924819898470367}
+  m_Layer: 0
+  m_Name: Style
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1792323734891358869
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3794388228055143356}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15.721125, y: 7.368436, z: -3.1200843}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-4131924819898470367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3794388228055143356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cacc2409dea90dd40991a65f7d461194, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  style:
+    id: 0
+    playerSprites:
+      smallMario:
+        stand:
+        - {fileID: 4631641477635956311, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        walk:
+        - {fileID: 4125614927182793665, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        - {fileID: -8608894045619873119, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        - {fileID: -8164256142862466224, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        run:
+        - {fileID: 4125614927182793665, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        - {fileID: -8608894045619873119, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        - {fileID: -8164256142862466224, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        swim:
+        - {fileID: -6078586225783624148, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        - {fileID: 7055343350544274399, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        - {fileID: 4930436293838401814, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        - {fileID: -2209434152691134051, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        - {fileID: -503538902968884194, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        - {fileID: -2888943311223882209, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        climb:
+        - {fileID: -2602571119460473524, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        - {fileID: -7602173352540682277, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        jump: {fileID: 2701194288024415295, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        fall: {fileID: 2701194288024415295, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -6048267466638925361, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        duck: {fileID: 7491955532714154595, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        death:
+        - {fileID: 527785346298508166, guid: c3facccf7746ad845a368699be7152ed, type: 3}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      bigMario:
+        stand:
+        - {fileID: -4331589492246149739, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        walk:
+        - {fileID: 3941909529649530236, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        - {fileID: 3699058151375222236, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        - {fileID: -3353895009062492891, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        run:
+        - {fileID: 3941909529649530236, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        - {fileID: 3699058151375222236, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        - {fileID: -3353895009062492891, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        swim:
+        - {fileID: 7664602644892690842, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        - {fileID: -6140804756958789899, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        - {fileID: 7371056716105607264, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        - {fileID: 3275721094054144643, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        - {fileID: 5374132409358440371, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        - {fileID: 1476657724113941964, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        climb:
+        - {fileID: -5218740971144903182, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        - {fileID: 9834234981501715, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        jump: {fileID: 1037678793431066410, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        fall: {fileID: 3796028783925099809, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -8318048549353025517, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        duck: {fileID: -1017153549171651763, guid: b1dc54bdbfeace646823a478072e142f, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      fireMario:
+        stand:
+        - {fileID: -509138779408948030, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        walk:
+        - {fileID: -1334406676633024602, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 6144906061959368307, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 9014676323489075216, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        run:
+        - {fileID: -1334406676633024602, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 6144906061959368307, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 9014676323489075216, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        swim:
+        - {fileID: 2152014748298572092, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 2152014748298572092, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 8650239085035196971, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: -8858407502338303472, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: -4196304618527414834, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 3447351703864309220, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        climb:
+        - {fileID: -1407785083626407337, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: -609621044018600849, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        jump: {fileID: -3896420621737185660, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        fall: {fileID: -3896420621737185660, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: 6912533901526859550, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        duck: {fileID: -7867962590610321903, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: -514520407785295583, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      probellerMario:
+        stand:
+        - {fileID: -8281217587633884740, guid: 361f946432a52e044883092671db3930, type: 3}
+        walk:
+        - {fileID: 6154217366218490202, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: -6093982077089072972, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: -4396527532434214942, guid: 361f946432a52e044883092671db3930, type: 3}
+        run:
+        - {fileID: 6154217366218490202, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: -6093982077089072972, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: -4396527532434214942, guid: 361f946432a52e044883092671db3930, type: 3}
+        swim:
+        - {fileID: 3668570157547934234, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: -1400709462809635372, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: 2957315269999921933, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: 2206920877682664558, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: 2206920877682664558, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: 2206920877682664558, guid: 361f946432a52e044883092671db3930, type: 3}
+        climb:
+        - {fileID: 1662303760780302772, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: -549457123918953543, guid: 361f946432a52e044883092671db3930, type: 3}
+        jump: {fileID: 8068702294776885187, guid: 361f946432a52e044883092671db3930, type: 3}
+        fall: {fileID: 8068702294776885187, guid: 361f946432a52e044883092671db3930, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -4574457675726488329, guid: 361f946432a52e044883092671db3930, type: 3}
+        duck: {fileID: 9037741873550717018, guid: 361f946432a52e044883092671db3930, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly:
+        - {fileID: 2152036412175897737, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: 1481754952138889655, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: 1180965790285053723, guid: 361f946432a52e044883092671db3930, type: 3}
+        - {fileID: 7207789200241822015, guid: 361f946432a52e044883092671db3930, type: 3}
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      acornMario:
+        stand:
+        - {fileID: -2631340237946508146, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        walk:
+        - {fileID: -5415027923888301198, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        - {fileID: 4190396901355595158, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        - {fileID: 7751714493491491369, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        run:
+        - {fileID: -5415027923888301198, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        - {fileID: 4190396901355595158, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        - {fileID: 7751714493491491369, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        swim:
+        - {fileID: 9219471008961615651, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        - {fileID: -3560331480738299688, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        - {fileID: 2788816327850498167, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        - {fileID: -8806400903326647877, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        - {fileID: -7097296056572814761, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        - {fileID: -2129683641851167211, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        climb:
+        - {fileID: 3807387796190289297, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        - {fileID: -6495300460985781312, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        jump: {fileID: 7675797988046716848, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        fall: {fileID: 8382646023968912624, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: 6726851216265243094, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        duck: {fileID: -1048759419715717719, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: -4745031255498383495, guid: a5a8d0427e532ba459f47fc57d8ad778, type: 3}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      iceMario:
+        stand:
+        - {fileID: -509138779408948030, guid: b819df018239579458acfad031f3d635, type: 3}
+        walk:
+        - {fileID: -1334406676633024602, guid: b819df018239579458acfad031f3d635, type: 3}
+        - {fileID: 6144906061959368307, guid: b819df018239579458acfad031f3d635, type: 3}
+        - {fileID: 9014676323489075216, guid: b819df018239579458acfad031f3d635, type: 3}
+        run:
+        - {fileID: -1334406676633024602, guid: b819df018239579458acfad031f3d635, type: 3}
+        - {fileID: 6144906061959368307, guid: b819df018239579458acfad031f3d635, type: 3}
+        - {fileID: 9014676323489075216, guid: b819df018239579458acfad031f3d635, type: 3}
+        swim:
+        - {fileID: 2152014748298572092, guid: b819df018239579458acfad031f3d635, type: 3}
+        - {fileID: -8858407502338303472, guid: b819df018239579458acfad031f3d635, type: 3}
+        climb:
+        - {fileID: -1407785083626407337, guid: b819df018239579458acfad031f3d635, type: 3}
+        - {fileID: -609621044018600849, guid: b819df018239579458acfad031f3d635, type: 3}
+        jump: {fileID: -3896420621737185660, guid: b819df018239579458acfad031f3d635, type: 3}
+        fall: {fileID: -3896420621737185660, guid: b819df018239579458acfad031f3d635, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: 6912533901526859550, guid: b819df018239579458acfad031f3d635, type: 3}
+        duck: {fileID: -7867962590610321903, guid: b819df018239579458acfad031f3d635, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: -514520407785295583, guid: b819df018239579458acfad031f3d635, type: 3}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      smashMario:
+        stand:
+        - {fileID: -509138779408948030, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        walk:
+        - {fileID: -1334406676633024602, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 6144906061959368307, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 9014676323489075216, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        run:
+        - {fileID: -1334406676633024602, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 6144906061959368307, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: 9014676323489075216, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        swim:
+        - {fileID: 8650239085035196971, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: -8858407502338303472, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        climb:
+        - {fileID: -1407785083626407337, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        - {fileID: -609621044018600849, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        jump: {fileID: -3896420621737185660, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        fall: {fileID: -3896420621737185660, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: 6912533901526859550, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        duck: {fileID: -7867962590610321903, guid: d9a0a74c8fede034f87a445777143d41, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash:
+        - {fileID: -495195339931163203, guid: a8538b2942b46404589e3a4d156423df, type: 3}
+        - {fileID: -4843802319201321526, guid: a8538b2942b46404589e3a4d156423df, type: 3}
+        - {fileID: 4236777405629534214, guid: a8538b2942b46404589e3a4d156423df, type: 3}
+        - {fileID: 1925707428985552902, guid: a8538b2942b46404589e3a4d156423df, type: 3}
+        - {fileID: -4955788119018133088, guid: a8538b2942b46404589e3a4d156423df, type: 3}
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      smoMario:
+        stand:
+        - {fileID: -4331589492246149739, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        walk:
+        - {fileID: 3941909529649530236, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 3699058151375222236, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: -3353895009062492891, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        run:
+        - {fileID: 3941909529649530236, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 3699058151375222236, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: -3353895009062492891, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        swim:
+        - {fileID: 7664602644892690842, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: -6140804756958789899, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 7371056716105607264, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 3275721094054144643, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 5374132409358440371, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 1476657724113941964, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        climb:
+        - {fileID: -5218740971144903182, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 9834234981501715, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        jump: {fileID: 3796028783925099809, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        fall: {fileID: 3796028783925099809, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -8318048549353025517, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        duck: {fileID: -1017153549171651763, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim:
+        - {fileID: 7664602644892690842, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: -6140804756958789899, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 7371056716105607264, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 3275721094054144643, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        grabDuck: {fileID: 0}
+      smoCaplessMario:
+        stand:
+        - {fileID: -6332720995385843627, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        walk:
+        - {fileID: 7053684526235796702, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: -1422348355401312442, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: -6061391218941273671, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        run:
+        - {fileID: 7053684526235796702, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: -1422348355401312442, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: -6061391218941273671, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        swim:
+        - {fileID: 1898746010091186949, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 1898746010091186949, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        climb:
+        - {fileID: 5447846459077508628, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: -8730604038943872946, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        jump: {fileID: 2270197095177302534, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        fall: {fileID: 2270197095177302534, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -5052753678906064961, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        duck: {fileID: -8908798315207883325, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim:
+        - {fileID: 1898746010091186949, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        - {fileID: 1898746010091186949, guid: daeacf53397c49f49a86a3b088613043, type: 3}
+        grabDuck: {fileID: 0}
+    playerSpritesLuigi:
+      smallMario:
+        stand:
+        - {fileID: 4631641477635956311, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        walk:
+        - {fileID: 4125614927182793665, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        - {fileID: -8608894045619873119, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        - {fileID: -8164256142862466224, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        run:
+        - {fileID: 4125614927182793665, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        - {fileID: -8608894045619873119, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        - {fileID: -8164256142862466224, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        swim:
+        - {fileID: -6078586225783624148, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        - {fileID: 7055343350544274399, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        - {fileID: 4930436293838401814, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        - {fileID: -2209434152691134051, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        - {fileID: -503538902968884194, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        - {fileID: -2888943311223882209, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        climb:
+        - {fileID: -2602571119460473524, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        - {fileID: -7602173352540682277, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        jump: {fileID: 2701194288024415295, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        fall: {fileID: 2701194288024415295, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -6048267466638925361, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        duck: {fileID: 7491955532714154595, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        death:
+        - {fileID: 527785346298508166, guid: a93478c04aa3baa4d8b1150e1ef8e116, type: 3}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      bigMario:
+        stand:
+        - {fileID: -4331589492246149739, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        walk:
+        - {fileID: 3941909529649530236, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        - {fileID: 3699058151375222236, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        - {fileID: -3353895009062492891, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        run:
+        - {fileID: 3941909529649530236, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        - {fileID: 3699058151375222236, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        - {fileID: -3353895009062492891, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        swim:
+        - {fileID: 7664602644892690842, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        - {fileID: -6140804756958789899, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        - {fileID: 7371056716105607264, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        - {fileID: 3275721094054144643, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        - {fileID: 5374132409358440371, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        - {fileID: 1476657724113941964, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        climb:
+        - {fileID: -5218740971144903182, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        - {fileID: 9834234981501715, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        jump: {fileID: 1037678793431066410, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        fall: {fileID: 3796028783925099809, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -8318048549353025517, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        duck: {fileID: -1017153549171651763, guid: c7e9ca1ba7077b142b765f4b2d00aa63, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      fireMario:
+        stand:
+        - {fileID: -509138779408948030, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        walk:
+        - {fileID: -1334406676633024602, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 6144906061959368307, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 9014676323489075216, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        run:
+        - {fileID: -1334406676633024602, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 6144906061959368307, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 9014676323489075216, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        swim:
+        - {fileID: 8565357050343865486, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 2152014748298572092, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 8650239085035196971, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: -8858407502338303472, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: -4196304618527414834, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 3447351703864309220, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        climb:
+        - {fileID: -1407785083626407337, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: -609621044018600849, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        jump: {fileID: -3896420621737185660, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        fall: {fileID: -3896420621737185660, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: 6912533901526859550, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        duck: {fileID: -7867962590610321903, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: -514520407785295583, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      probellerMario:
+        stand:
+        - {fileID: -8281217587633884740, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        walk:
+        - {fileID: 6154217366218490202, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: -6093982077089072972, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: -4396527532434214942, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        run:
+        - {fileID: 6154217366218490202, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: -6093982077089072972, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: -4396527532434214942, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        swim:
+        - {fileID: 3668570157547934234, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: -1400709462809635372, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: 2957315269999921933, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: 2206920877682664558, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: 5208666645903924889, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        climb:
+        - {fileID: 1662303760780302772, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: -549457123918953543, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        jump: {fileID: 8068702294776885187, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        fall: {fileID: 8068702294776885187, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -4574457675726488329, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        duck: {fileID: 9037741873550717018, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly:
+        - {fileID: 2152036412175897737, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: 1481754952138889655, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: 1180965790285053723, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        - {fileID: 7207789200241822015, guid: 231e042555fc0be43aadbc195796714c, type: 3}
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      acornMario:
+        stand:
+        - {fileID: -2631340237946508146, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        walk:
+        - {fileID: -5415027923888301198, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        - {fileID: 4190396901355595158, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        - {fileID: 7751714493491491369, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        run:
+        - {fileID: -5415027923888301198, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        - {fileID: 4190396901355595158, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        - {fileID: 7751714493491491369, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        swim:
+        - {fileID: 9219471008961615651, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        - {fileID: -3560331480738299688, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        - {fileID: 2788816327850498167, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        - {fileID: -8806400903326647877, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        - {fileID: -7097296056572814761, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        - {fileID: -2129683641851167211, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        climb:
+        - {fileID: 3807387796190289297, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        - {fileID: -6495300460985781312, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        jump: {fileID: 7675797988046716848, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        fall: {fileID: 8382646023968912624, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: 6726851216265243094, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        duck: {fileID: -1048759419715717719, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: -4745031255498383495, guid: 19508839383c81747b9fa1f567846804, type: 3}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      iceMario:
+        stand:
+        - {fileID: -509138779408948030, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        walk:
+        - {fileID: -1334406676633024602, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        - {fileID: 6144906061959368307, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        - {fileID: 9014676323489075216, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        run:
+        - {fileID: -1334406676633024602, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        - {fileID: 6144906061959368307, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        - {fileID: 9014676323489075216, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        swim:
+        - {fileID: 2152014748298572092, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        - {fileID: -8858407502338303472, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        climb:
+        - {fileID: -1407785083626407337, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        - {fileID: -609621044018600849, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        jump: {fileID: -3896420621737185660, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        fall: {fileID: -3896420621737185660, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: 6912533901526859550, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        duck: {fileID: -7867962590610321903, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: -514520407785295583, guid: 12ed308361ac3574fbab9b8e5742c554, type: 3}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      smashMario:
+        stand:
+        - {fileID: -509138779408948030, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        walk:
+        - {fileID: -1334406676633024602, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 6144906061959368307, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 9014676323489075216, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        run:
+        - {fileID: -1334406676633024602, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 6144906061959368307, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: 9014676323489075216, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        swim:
+        - {fileID: 8650239085035196971, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: -8858407502338303472, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        climb:
+        - {fileID: -1407785083626407337, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        - {fileID: -609621044018600849, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        jump: {fileID: -3896420621737185660, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        fall: {fileID: -3896420621737185660, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: 6912533901526859550, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        duck: {fileID: -7867962590610321903, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: -514520407785295583, guid: 480cf91cb04d26441ae0a77603960eb2, type: 3}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash:
+        - {fileID: -495195339931163203, guid: c51002c813ca0444381bbb5c40ea5b6a, type: 3}
+        - {fileID: -4843802319201321526, guid: c51002c813ca0444381bbb5c40ea5b6a, type: 3}
+        - {fileID: 4236777405629534214, guid: c51002c813ca0444381bbb5c40ea5b6a, type: 3}
+        - {fileID: 1925707428985552902, guid: c51002c813ca0444381bbb5c40ea5b6a, type: 3}
+        - {fileID: -4955788119018133088, guid: c51002c813ca0444381bbb5c40ea5b6a, type: 3}
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      smoMario:
+        stand:
+        - {fileID: -4331589492246149739, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        walk:
+        - {fileID: 3941909529649530236, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 3699058151375222236, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: -3353895009062492891, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        run:
+        - {fileID: 3941909529649530236, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 3699058151375222236, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: -3353895009062492891, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        swim:
+        - {fileID: 7664602644892690842, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: -6140804756958789899, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 7371056716105607264, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 3275721094054144643, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 5374132409358440371, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 1476657724113941964, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        climb:
+        - {fileID: -5218740971144903182, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 9834234981501715, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        jump: {fileID: 3796028783925099809, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        fall: {fileID: 3796028783925099809, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -8318048549353025517, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        duck: {fileID: -1017153549171651763, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim:
+        - {fileID: 7664602644892690842, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: -6140804756958789899, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 7371056716105607264, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 3275721094054144643, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        grabDuck: {fileID: 0}
+      smoCaplessMario:
+        stand:
+        - {fileID: -6332720995385843627, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        walk:
+        - {fileID: 7053684526235796702, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: -1422348355401312442, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: -6061391218941273671, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        run:
+        - {fileID: 7053684526235796702, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: -1422348355401312442, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: -6061391218941273671, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        swim:
+        - {fileID: 1898746010091186949, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 1898746010091186949, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        climb:
+        - {fileID: 5447846459077508628, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: -8730604038943872946, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        jump: {fileID: 2270197095177302534, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        fall: {fileID: 1903225730395666620, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -5052753678906064961, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        duck: {fileID: -8908798315207883325, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        death:
+        - {fileID: 0}
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim:
+        - {fileID: 1898746010091186949, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        - {fileID: 1898746010091186949, guid: 29d26a09f2b6aa5438cb90cbb816fb76, type: 3}
+        grabDuck: {fileID: 0}
+    playerSpritesToad:
+      smallMario:
+        stand:
+        - {fileID: -4817979942802207626, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        walk:
+        - {fileID: -2705868614919444118, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        - {fileID: -5839769371225448943, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        - {fileID: -9089186444667832646, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        run:
+        - {fileID: -2705868614919444118, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        - {fileID: -5839769371225448943, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        - {fileID: -9089186444667832646, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        swim:
+        - {fileID: 5013276295711244766, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        - {fileID: -4470861406301595794, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        - {fileID: 7299577097699038917, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        - {fileID: -5060169364044043595, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        climb:
+        - {fileID: 6223460032393936590, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        - {fileID: 722918573489836459, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        jump: {fileID: -6917435674569020848, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        fall: {fileID: -7682664840835983354, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        runJump: {fileID: -6917435674569020848, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        runReturn: {fileID: -8477877041090390276, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        duck: {fileID: 6567379699322751982, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        death:
+        - {fileID: 1245432445030745558, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        kick: {fileID: -2705868614919444118, guid: d13da32d4b62c024892e59d6fa633953, type: 3}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      bigMario:
+        stand:
+        - {fileID: -3533499624918553606, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        walk:
+        - {fileID: 2814193190147973910, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        - {fileID: -1305207979121441708, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        - {fileID: 6622340559987238137, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        run:
+        - {fileID: 2814193190147973910, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        - {fileID: -1305207979121441708, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        - {fileID: 6622340559987238137, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        swim:
+        - {fileID: -286953782772690894, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        - {fileID: -1398291919007861683, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        - {fileID: 3613859461971800669, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        - {fileID: -2537148086025722517, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        - {fileID: 3032244483560626984, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        - {fileID: -7898229033283866241, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        climb:
+        - {fileID: 7708915826987495286, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        - {fileID: 9045635276214620283, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        jump: {fileID: 1962268394875714767, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        fall: {fileID: 8007561888143446744, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        runJump: {fileID: 1962268394875714767, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        runReturn: {fileID: 4979424778988018243, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        duck: {fileID: -7558307164388364730, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        death: []
+        kick: {fileID: 6622340559987238137, guid: 6c726f132b0a03a46a55cfcf49644983, type: 3}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      fireMario:
+        stand:
+        - {fileID: 5725415763906340390, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        walk:
+        - {fileID: 6637623382518103731, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: 3083094910041037859, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: -6795902326005135240, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        run:
+        - {fileID: 6637623382518103731, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: 3083094910041037859, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: -6795902326005135240, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        swim:
+        - {fileID: 6918584343716122684, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: -9211834050284437273, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: -6143046642511420953, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: 3518899585489797427, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: -5175381137113038326, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: 8364224088467962655, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        climb:
+        - {fileID: -705246367758884609, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: 3364388224577400496, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        jump: {fileID: 2113756149103768103, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        fall: {fileID: 1608468980925650640, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        runJump: {fileID: 2113756149103768103, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        runReturn: {fileID: 6185561171962385238, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        duck: {fileID: -1005877490371874441, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        death: []
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 6340670763587959764, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      probellerMario:
+        stand:
+        - {fileID: 5736190507561201302, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        walk:
+        - {fileID: 6592264486541606352, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        - {fileID: -1838575886625913384, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        - {fileID: 9166866520542135974, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        run:
+        - {fileID: 6592264486541606352, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        - {fileID: -1838575886625913384, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        - {fileID: 9166866520542135974, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        swim:
+        - {fileID: 3861501304433200320, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        - {fileID: 2094610185522886083, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        - {fileID: 6579713169369269990, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        - {fileID: -7114128308959662706, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        - {fileID: 2573452637497323361, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        - {fileID: -8538316598413246752, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        climb:
+        - {fileID: -5720156424142034469, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        - {fileID: -6589519710462199817, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        jump: {fileID: 2390510201248990205, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        fall: {fileID: 2390510201248990205, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        runJump: {fileID: 2390510201248990205, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        runReturn: {fileID: 7904157647723545748, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        duck: {fileID: 5692361561691131995, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        death: []
+        kick: {fileID: 9166866520542135974, guid: 518b09165a58cd44bae649441033b32d, type: 3}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly:
+        - {fileID: -7319696368984403678, guid: 7c274e4cff577a04d9e0791cc4f3c873, type: 3}
+        - {fileID: 2751779549871359074, guid: 7c274e4cff577a04d9e0791cc4f3c873, type: 3}
+        - {fileID: 8616471834566980279, guid: 7c274e4cff577a04d9e0791cc4f3c873, type: 3}
+        - {fileID: -1615900912492732926, guid: 7c274e4cff577a04d9e0791cc4f3c873, type: 3}
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      acornMario:
+        stand: []
+        walk: []
+        run: []
+        swim: []
+        climb: []
+        jump: {fileID: 0}
+        fall: {fileID: 0}
+        runJump: {fileID: 0}
+        runReturn: {fileID: 0}
+        duck: {fileID: 0}
+        death: []
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      iceMario:
+        stand:
+        - {fileID: -3788916974260542594, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        walk:
+        - {fileID: 2941099509748500155, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        - {fileID: -7413412243935642762, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        - {fileID: 2807091989891245178, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        run:
+        - {fileID: 2941099509748500155, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        - {fileID: -7413412243935642762, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        - {fileID: 2807091989891245178, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        swim:
+        - {fileID: 6149888885868946623, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        - {fileID: 5472013371259122049, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        - {fileID: -6749731687575828556, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        - {fileID: 3825105983350285452, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        - {fileID: 6143077634371137128, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        - {fileID: -7146855951241051137, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        climb:
+        - {fileID: 1848783382088164502, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        - {fileID: 3687044357468832179, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        jump: {fileID: 5332085286388022038, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        fall: {fileID: 5332085286388022038, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        runJump: {fileID: 5332085286388022038, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        runReturn: {fileID: 6334040816906335793, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        duck: {fileID: 535279530387410777, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        death: []
+        kick: {fileID: 2807091989891245178, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        throwFireBall: {fileID: -5243130866827612382, guid: 59509f9524beaa3468a942cdd5ba38ce, type: 3}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      smashMario:
+        stand:
+        - {fileID: 5725415763906340390, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        walk:
+        - {fileID: 6637623382518103731, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: 3083094910041037859, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: -6795902326005135240, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        run:
+        - {fileID: 6637623382518103731, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: 3083094910041037859, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: -6795902326005135240, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        swim:
+        - {fileID: 6918584343716122684, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: -9211834050284437273, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: -6143046642511420953, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: 3518899585489797427, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: -5175381137113038326, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: 8364224088467962655, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        climb:
+        - {fileID: -705246367758884609, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        - {fileID: 3364388224577400496, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        jump: {fileID: 2113756149103768103, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        fall: {fileID: 2113756149103768103, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: 6185561171962385238, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        duck: {fileID: -1005877490371874441, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        death: []
+        kick: {fileID: -6795902326005135240, guid: 7b4380b104fb39742be421cc1353b7e2, type: 3}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash:
+        - {fileID: -8017916262697734832, guid: fde473167138d3f439a3092a4233d230, type: 3}
+        - {fileID: -8139362582348553411, guid: fde473167138d3f439a3092a4233d230, type: 3}
+        - {fileID: 6722695116876561569, guid: fde473167138d3f439a3092a4233d230, type: 3}
+        - {fileID: 2889940429648768044, guid: fde473167138d3f439a3092a4233d230, type: 3}
+        - {fileID: -922678333713144865, guid: fde473167138d3f439a3092a4233d230, type: 3}
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      smoMario:
+        stand:
+        - {fileID: -8995479118873847891, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        walk:
+        - {fileID: 4663153985133923597, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 5710869558552624450, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: -5780198960491445977, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        run:
+        - {fileID: 4663153985133923597, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 5710869558552624450, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: -5780198960491445977, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        swim:
+        - {fileID: -4536715881750525627, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 7402353912371767797, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 5488814713530051659, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 2133770633260804537, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 5662535880949132212, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: -6104887504422759447, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        climb:
+        - {fileID: -2688631918785397591, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: -6637723199971785760, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        jump: {fileID: 4439361100617626051, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        fall: {fileID: 4439361100617626051, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -5812133760739834479, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        duck: {fileID: -5068751769415211939, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        death: []
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+      smoCaplessMario:
+        stand:
+        - {fileID: 3752416519496150074, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        walk:
+        - {fileID: 6527987681470783708, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 7794945485305338278, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 5282094333964457963, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        run:
+        - {fileID: 6527987681470783708, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 7794945485305338278, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 5282094333964457963, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        swim:
+        - {fileID: -1532657234125741859, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: 5712167975522952519, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: -117068543141046863, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        climb:
+        - {fileID: 3552771997508220950, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        - {fileID: -4123248569369355149, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        jump: {fileID: 4054539569705426901, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        fall: {fileID: 4054539569705426901, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        runJump: {fileID: 0}
+        runReturn: {fileID: -2410988415093218886, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        duck: {fileID: -1015156988797195039, guid: 24108e915e89ca6478803d826dbabaec, type: 3}
+        death: []
+        kick: {fileID: 0}
+        throwFireBall: {fileID: 0}
+        acornFly: {fileID: 0}
+        mysteryExtra: {fileID: 0}
+        probellerFly: []
+        smashFlowerSmash: []
+        spin: []
+        grabStand: []
+        grabWalk: []
+        grabSwim: []
+        grabDuck: {fileID: 0}
+    soundEffects:
+      jumpSmall: {fileID: 8300000, guid: b52b03a2f3c8cc84fb529dc1b8a6a9ad, type: 3}
+      jumpBig: {fileID: 8300000, guid: cce1c9005907a2e428cfc9e707e912db, type: 3}
+      powerup: {fileID: 8300000, guid: e033d0c839e3de94fb4bcac2b9306a3d, type: 3}
+      powerdown: {fileID: 8300000, guid: 2e063b978d625684181781ec591978ba, type: 3}
+      throwFireBall: {fileID: 8300000, guid: c2d4aaa58d9ab304aacafa408c178504, type: 3}
+      probellerFly: {fileID: 8300000, guid: d8b1997f5b46ebe47a66e3935cbc6210, type: 3}
+      die: {fileID: 8300000, guid: e17fd3eb9ba7ecd4fa9251d423e26d66, type: 3}
+      hitBlock: {fileID: 8300000, guid: f298cb647ec2f1442b8f0d551307097e, type: 3}
+      breakBlock: {fileID: 8300000, guid: ace541008eda16f4892fb4c02819cc1e, type: 3}
+      itemPop: {fileID: 8300000, guid: bab3caa944d67a0429577efcfc3cb37c, type: 3}
+      kicked: {fileID: 8300000, guid: 4c244f1e192d7c64c9c1c8af5294163b, type: 3}
+      star: {fileID: 8300000, guid: 8edaae4deda59514092de088ca27e69c, type: 3}
+      coin: {fileID: 8300000, guid: ec1e037d05f5c634b994abd7fb42d2e3, type: 3}
+      onOffSwitch: {fileID: 8300000, guid: ed4663bb8ae21c740bed51112f90b43e, type: 3}
+      oneUp: {fileID: 8300000, guid: 8bc3b6e64ff01c6419c93f6deee30d3e, type: 3}
+      messageBlock: {fileID: 8300000, guid: 7f06c2060fb012541be7cca227bf5f28, type: 3}
+      explode: {fileID: 8300000, guid: ea4181e4a13b7e9469c000588c4cc33e, type: 3}
+      doorOpen: {fileID: 8300000, guid: d79a42f7e8e599c43ade8f7a5c75ffae, type: 3}
+      doorClose: {fileID: 8300000, guid: d79a42f7e8e599c43ade8f7a5c75ffae, type: 3}
+      pSwitch: {fileID: 8300000, guid: 5fcf8c78cf8507748a7742e0bab2b98c, type: 3}
+      cannon: {fileID: 8300000, guid: cdf45f65d9e3fa946921aacf23a7a899, type: 3}
+      burner: {fileID: 8300000, guid: fdca1a43b5d1b7449acb0132bdefbfcf, type: 3}
+      hurryUp: {fileID: 8300000, guid: c45e72d47630d7141aa751ef6ed9c767, type: 3}
+      warpBoxEnter: {fileID: 8300000, guid: daa86f4f6218bf74cb8f7a9bd45a316d, type: 3}
+      warpBoxExit: {fileID: 8300000, guid: b0ed8c916112d5645a62e018b0a0f728, type: 3}
+      spin: {fileID: 0}
+      spinKick: {fileID: 0}
+      hitGround: {fileID: 8300000, guid: 326dec13de55eef4d88de009e1532baa, type: 3}
+      jumpTrampoline: {fileID: 8300000, guid: f298cb647ec2f1442b8f0d551307097e, type: 3}
+      booLaught: {fileID: 8300000, guid: b016da4290d6d05449b82dd524d2dca6, type: 3}
+      checkpoint: {fileID: 8300000, guid: 9c57913776c91bc478aa07f55aff2313, type: 3}
+      doorLocked: {fileID: 8300000, guid: 1f931d87084d1964495e41a3878e06da, type: 3}
+      doorUnlock: {fileID: 8300000, guid: 59b742ae97e3110479b9246a95138722, type: 3}
+    effectTileset:
+    - {fileID: 1571786891402097675, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: -3792339887870337536, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: -8248184414856976584, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: -6140521989939545447, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: -5810290663535272605, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: 3832456890588305621, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: -7466522973678874103, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: 6815229166277592208, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: 661196975315335433, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: 4090799819692156374, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: 4658627485858765526, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: -7125811559464083784, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: -6026981111418200015, guid: 3125e58ad955a354ea3959e71a93fc18, type: 3}
+    - {fileID: 6034038894303378992, guid: 3a8478eeffdf0974bbb8fa7ee5709fc8, type: 3}
+    - {fileID: 1087039693957555656, guid: 3a8478eeffdf0974bbb8fa7ee5709fc8, type: 3}
+    - {fileID: 3418876461670284722, guid: 3a8478eeffdf0974bbb8fa7ee5709fc8, type: 3}
+    bulletTileset:
+    - {fileID: 2208703988740019828, guid: 7fe042fb88121a4499dc514689ea60fc, type: 3}
+    - {fileID: 4385501425044414559, guid: 7fe042fb88121a4499dc514689ea60fc, type: 3}
+    - {fileID: 3029603797402824116, guid: 7fe042fb88121a4499dc514689ea60fc, type: 3}
+    - {fileID: -3300396339194205850, guid: 7fe042fb88121a4499dc514689ea60fc, type: 3}
+    - {fileID: 1595849069685491311, guid: 7fe042fb88121a4499dc514689ea60fc, type: 3}
+    - {fileID: 2281616994717487372, guid: 7fe042fb88121a4499dc514689ea60fc, type: 3}
+    - {fileID: -7715894896725399453, guid: 7fe042fb88121a4499dc514689ea60fc, type: 3}
+    - {fileID: 1823540885998108106, guid: 7fe042fb88121a4499dc514689ea60fc, type: 3}
+    - {fileID: 8191024754275108436, guid: 7fe042fb88121a4499dc514689ea60fc, type: 3}
+    enemyTileset:
+    - {fileID: 2192450021786810173, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -7537196482120660328, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -860468679390908754, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -7945901444079236628, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -8421458170528590454, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -1147401495359466748, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 8414478535512612329, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3714015224569861163, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -7844560889915226194, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 4326287474489854147, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 7877921557971618100, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5366457973745487733, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 572134458542851419, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5875395181630150645, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5023289697677887148, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 1511843784806208459, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 9008768272413781845, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 615673380907259118, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -1010674888820381983, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -4181999719777712613, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -3375038303658136201, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 1432442515227095082, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -4669921857946425314, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -731756946235510198, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 1621394836268213013, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 368555085621994118, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -3567033628092068868, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 8849371530552776352, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -509115650628796296, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -8178165961756399743, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -3934682143293241471, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -4640851858021030223, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -4030233447086554269, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 9099896256582322714, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5751447635443309442, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 1205781820415724575, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 724912592566366239, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -438660108337136262, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 2884737313679868233, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -1360573819756025394, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -5557010403634338699, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3551148586647959576, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -7452406817521087278, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -1871929004497759837, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -2767687718110399205, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -6767087442504108573, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 9150857795518445384, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -4453719734264909257, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 89139527193386499, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -2213654343223091228, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3528696545735274776, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 2054728660546970155, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -3753579385025995478, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -2496844334191475400, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 2752182825275558492, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -5449054242775794067, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -6640614073646168285, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 450555567493972228, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5480056424480108288, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -8072977402653731372, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 7418927152471405234, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 590312977676163301, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -4710835892303214055, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -1508715040571728308, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -199097416636975947, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5104648564829428216, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 1823596973268455144, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 8214992237754589118, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -589091789353595709, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -6961333781056756240, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -4672408666891060877, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -5234243887011947869, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 2301194597526324844, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -769092572047933806, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -8949767727110273653, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 7620030484785497571, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -2045263686945575246, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -3087958048477219219, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 7490056065647952752, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -4238003056365228607, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -184014217326568715, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -7299916145096339233, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -4933128433902454764, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -8194286608898290098, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 1992161305237088239, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3656204211181538475, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 8006013045212815849, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5428214678119402275, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -2734681040658012826, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 4587673724615464695, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -2251326128723052975, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -2998995395697284367, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -9067941519535602811, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 6292691625679946888, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -88126416166889395, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -4656416737252121297, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 8981017190978900272, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -3795149127210610995, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3998031152197799805, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -5392914322310365440, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -5716800537163901602, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3758680154995228956, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5096798637288347760, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -3908582556919349228, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -7340435992496341900, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -6215373132702329084, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 281971560821966503, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 6760816455620728065, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -1632509268861782422, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5803252358176458923, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5586420018639894052, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -327514432990638087, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -846593386734640808, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3005459295459972260, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -2687233724321928115, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3963637521249654660, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 8393362849812203762, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -5912028405313391129, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -318846305294400523, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 6940734687792239648, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -8243208416857005183, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3239750355448910219, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 5197189315874054843, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: -3677388578715449969, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3701666406343386126, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 3660494594444218831, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    - {fileID: 7027872553957238786, guid: 4600ee46424e2dc4aac1d3f9e5117fbb, type: 3}
+    objectsTileset:
+    - {fileID: 7642980859614939925, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -174804484191063705, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 3275407576765064038, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7067808830664889489, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3001449038190906842, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2058049638561703503, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2746839580606631015, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5372264662783423788, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -6895716492971166485, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4894898745955426128, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 734368628706365288, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 8661651960862297898, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2710443080846324409, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -1312994402987499043, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 8575179032478902733, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4060402318970035109, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6234151420658722001, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2969016694365801900, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1955328530927145255, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2925288176213767688, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3803466081661082397, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2752588384504392991, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 8284690431070618562, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7859958447799540355, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5820355003221595676, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3857447443281189028, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 8212777935605795489, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -1668014440229517187, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2035105256428418344, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7043884582185661398, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7757104150326903795, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2182464128780118203, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2576728462390566697, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5940148099811479935, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2941760180877342075, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3746574086467807375, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -288929653884091521, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -6556338514710992772, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4798158037266090706, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -5289736582898160604, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -5101089530674604138, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5003201201974135454, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8589356050003614465, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1001301456868327842, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8933503641095557123, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 72338886620936838, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7376969372344825023, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 632630874191516457, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1224041212341643867, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -1832974809743333425, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 3081797684678170146, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 8816747602095994496, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4903146265661389270, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8348929550629115275, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6933252979370088074, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 868453856703549111, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2675613229506035314, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4549469805725566138, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4043780837925696159, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3101308802076293628, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2780022079899246241, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2899360304898280323, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -338228447435522767, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 3656100693410352694, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2394703508014104417, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8539152778782180879, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 220229134060125390, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4649482557999093556, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3736867644340484305, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -1108098455314781316, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 774074982635610924, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8992927807544612251, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5108118347405784964, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 959667129703520337, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -9209976070086422724, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4217588451241903539, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 950061346773986722, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4398868931401393710, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7425545018328478448, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7881271516424171006, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8102886684974876306, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4827296256666933940, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8016207045739360880, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -883110562571593920, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -6147533640271674327, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7224071577526111514, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 3612201682252227007, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 3881513329090628680, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7320124526285240742, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2681772495277608160, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2846207220525464403, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4216284655010125573, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5966429066039626428, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2464439260785059189, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2171293268592095071, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -1421213754788529799, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4284721059191852368, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -1711523434982782601, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3959818803741121525, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6601666357239969419, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2587314467390573380, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3148911687936111932, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6229231206441801857, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4025167711884886588, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2849053093555634837, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7078579320989713041, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5434462358114874367, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5762527732930046353, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -5260109315171622641, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7772590912603791647, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5865254744019773968, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 685855751921430549, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7915496670015523884, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2774394064476005802, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8543053210268914499, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7226148949378260873, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8349786677970499623, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 527268471365892067, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 3176578081823835073, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4411728627669988712, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2647608863696996709, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -5237015435053085785, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8128843535577820725, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7724178471478872758, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5751347226437846902, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 3863864276438554331, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5534470161311602739, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1596066767867088743, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4334192776745342227, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3322025497403588229, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4752947457354125345, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5622275866283465767, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7377380849687016300, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2061626117551074439, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -5161517477079361583, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2438431243117093724, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7406538523813543832, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5424687608807458607, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3698327035008562134, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7531156658624321211, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1395320221665751608, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8667437935301256736, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2996085410140293706, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7187621397275856702, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4919630868593721869, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4396112257232875678, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2654866089843862890, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7580239253614375607, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7201619948632521794, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -6409514926598726846, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6392648983804030958, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -1108689753204118227, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4616213046771836801, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5898921139544194648, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5282852366263902284, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -5162798633831915920, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7915115008743920375, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -6879535404821183968, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 8428221890823789946, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3981084254686029655, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6858706933316223016, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5944044608306963565, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7167421998454836687, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2539467814586389867, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 574374039185138819, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 5119767943869244055, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -162613830743852173, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 8332144871682016275, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6122483591386513173, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 3305176131167864214, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 8324354625734389044, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -1415570126311452215, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7521855090137558967, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8977857039269093315, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -6286815545121179090, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 3367409430926933647, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4712328794280406735, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6945766968640516289, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2650869469842849433, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 7981375944801788038, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6394976058967057568, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -5782059501842651581, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4588635959468245953, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8651530922239222309, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1263496781017695816, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6766313307294246216, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8164425944022468743, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -5428414717513808097, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -5004790234415132064, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2381782593490668745, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -6047939582134476898, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 6542257418453633893, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 3632925607709846269, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7758437351761839606, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 2687925451182965487, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -3196194586448903731, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -819483075989213141, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2822303294869396091, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -764266104968932318, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1400568695782937366, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -899267985601530972, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1732677947196257886, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4231281736100874337, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4014175739523272525, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 139374818347582598, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4194736784528645763, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -394161278009666129, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -2968554775177256180, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8481163106385099583, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4994559561250913291, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1201645153329670919, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4187640688428946357, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4450224487217588203, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8239753886119004574, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1009265859753088121, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -4166350055109350406, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7778916715641909705, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -8096008440167594430, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 4623947340489196106, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -6921082117823756386, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 1127798426435056199, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: 8003621339795452597, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    - {fileID: -7121747093131308623, guid: 01c149e7f77ab1d4581ae35b885a0373, type: 3}
+    styleButtonSprite: {fileID: -3259332429917063275, guid: d2932b97323d0cf49b19a050baf44ee7, type: 3}
+    editorBackgroundColorId: 2
+    toadColors:
+    - standartCol1: {r: 0.3137255, g: 0.3137255, b: 1, a: 1}
+      standartCol2: {r: 0.039215688, g: 0.105882354, b: 0.5411765, a: 1}
+      standartCol3: {r: 0.039215688, g: 0.105882354, b: 0.5411765, a: 1}
+      standartCol4: {r: 0, g: 0, b: 0, a: 0}
+    - standartCol1: {r: 1, g: 0, b: 0, a: 1}
+      standartCol2: {r: 0.6117647, g: 0.07450981, b: 0.011764706, a: 1}
+      standartCol3: {r: 0.039215688, g: 0.105882354, b: 0.5411765, a: 1}
+      standartCol4: {r: 0, g: 0, b: 0, a: 0}
+    - standartCol1: {r: 0.12941177, g: 0.6784314, b: 0.0627451, a: 1}
+      standartCol2: {r: 0.70980394, g: 0.8705883, b: 0.19215688, a: 1}
+      standartCol3: {r: 0.70980394, g: 0.8705883, b: 0.19215688, a: 1}
+      standartCol4: {r: 0, g: 0, b: 0, a: 0}

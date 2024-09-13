@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 659842b24d1a56b44bc93b1e013d9429, type: 3}
+  m_Name: BuildData
+  m_EditorClassIdentifier: 
+  VERSION_STRING: Dev-Alpha 0.23
+  VERSION_FLOAT: 0.23
+  isPBuild: 0
+  encryptLevels: 1
+  isAdminBuild: 0
+  USERNAME: baaa
+  levelKey: Ja6PskzIzoGIWpGThYdxxThTPx71p7AowLONVIxMvXb8+/0E/6gqUmROEe71jBuyxzDWZ4A0FHenFZOaOkgolp14Mr+FSsU760wBKU9OyKSNQEP9IiXoWIthu1AYE+Ja
+  levelKey2: rzi4reSTe46L!

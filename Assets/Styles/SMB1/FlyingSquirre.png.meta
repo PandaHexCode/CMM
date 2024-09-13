@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: a5a8d0427e532ba459f47fc57d8ad778
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2631340237946508146
+    second: FlyingSquirre_0
+  - first:
+      213: -5415027923888301198
+    second: FlyingSquirre_1
+  - first:
+      213: 4190396901355595158
+    second: FlyingSquirre_2
+  - first:
+      213: 7751714493491491369
+    second: FlyingSquirre_3
+  - first:
+      213: 8382646023968912624
+    second: FlyingSquirre_4
+  - first:
+      213: 7675797988046716848
+    second: FlyingSquirre_5
+  - first:
+      213: 2717442385745721004
+    second: FlyingSquirre_6
+  - first:
+      213: 3807387796190289297
+    second: FlyingSquirre_7
+  - first:
+      213: -6495300460985781312
+    second: FlyingSquirre_8
+  - first:
+      213: -7005040366172051823
+    second: FlyingSquirre_9
+  - first:
+      213: 6077848056033805021
+    second: FlyingSquirre_10
+  - first:
+      213: 4092123303407250281
+    second: FlyingSquirre_11
+  - first:
+      213: 6726851216265243094
+    second: FlyingSquirre_12
+  - first:
+      213: -1048759419715717719
+    second: FlyingSquirre_13
+  - first:
+      213: 9219471008961615651
+    second: FlyingSquirre_14
+  - first:
+      213: -3560331480738299688
+    second: FlyingSquirre_15
+  - first:
+      213: 2788816327850498167
+    second: FlyingSquirre_16
+  - first:
+      213: -8806400903326647877
+    second: FlyingSquirre_17
+  - first:
+      213: -7097296056572814761
+    second: FlyingSquirre_18
+  - first:
+      213: -2129683641851167211
+    second: FlyingSquirre_19
+  - first:
+      213: -4745031255498383495
+    second: FlyingSquirre_20
+  - first:
+      213: 4461158333864405916
+    second: FlyingSquirre_0
+  - first:
+      213: -5623309026068877360
+    second: FlyingSquirre_1
+  - first:
+      213: -2192948645626024301
+    second: FlyingSquirre_2
+  - first:
+      213: 8658817337729344856
+    second: FlyingSquirre_3
+  - first:
+      213: -7355382165592773341
+    second: FlyingSquirre_4
+  - first:
+      213: -5575577230051179838
+    second: FlyingSquirre_5
+  - first:
+      213: -6735982321824997405
+    second: FlyingSquirre_6
+  - first:
+      213: 7798118554489011673
+    second: FlyingSquirre_7
+  - first:
+      213: 1826999382058583998
+    second: FlyingSquirre_8
+  - first:
+      213: 2910505288122875593
+    second: FlyingSquirre_9
+  - first:
+      213: -6002922574165080690
+    second: FlyingSquirre_10
+  - first:
+      213: 6221772714679030325
+    second: FlyingSquirre_11
+  - first:
+      213: -3172957130278454301
+    second: FlyingSquirre_12
+  - first:
+      213: 4434041619403737147
+    second: FlyingSquirre_13
+  - first:
+      213: -2618848803708995919
+    second: FlyingSquirre_14
+  - first:
+      213: -8872636402578264147
+    second: FlyingSquirre_15
+  - first:
+      213: 2882294483680209128
+    second: FlyingSquirre_16
+  - first:
+      213: 3025387046247818643
+    second: FlyingSquirre_17
+  - first:
+      213: -2168518990619205891
+    second: FlyingSquirre_18
+  - first:
+      213: -2845379469933752858
+    second: FlyingSquirre_19
+  - first:
+      213: 3665712120194175222
+    second: FlyingSquirre_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlyingSquirre_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be2c05ed739ed30800000000000000
+      internalID: 4461158333864405916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfaaeefb3ef5f1b0800000000000000
+      internalID: -5623309026068877360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 19
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e69c653d41191e0800000000000000
+      internalID: -2192948645626024301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 19
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855e9560e7c4a2870800000000000000
+      internalID: 8658817337729344856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d699014ee6ce990800000000000000
+      internalID: -7355382165592773341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c20b09cc029f92b0800000000000000
+      internalID: -5575577230051179838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef5f4e54cbf482a0800000000000000
+      internalID: -6735982321824997405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd33b4528b783c60800000000000000
+      internalID: 7798118554489011673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7c574124eca5910800000000000000
+      internalID: 1826999382058583998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceb5779321346820800000000000000
+      internalID: 2910505288122875593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 19
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8587b049b551bca0800000000000000
+      internalID: -6002922574165080690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 20
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53259a3d15d285650800000000000000
+      internalID: 6221772714679030325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 19
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb5321d4467f3d0800000000000000
+      internalID: -3172957130278454301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388bdb3c51e88d30800000000000000
+      internalID: 4434041619403737147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_14
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6f77663eaf7abd0800000000000000
+      internalID: -2618848803708995919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_15
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf6f1b73301ed480800000000000000
+      internalID: -8872636402578264147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_16
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8a3d5df87fff720800000000000000
+      internalID: 2882294483680209128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_17
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3956ba74d755cf920800000000000000
+      internalID: 3025387046247818643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe1473a77fd7e1e0800000000000000
+      internalID: -2168518990619205891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edc863927e2388d0800000000000000
+      internalID: -2845379469933752858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingSquirre_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0940560c93fd230800000000000000
+      internalID: 3665712120194175222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

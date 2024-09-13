@@ -1,0 +1,802 @@
+fileFormatVersion: 2
+guid: ff18a621bfe4ef747b39311260ae8b16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3082793695946717698
+    second: ProbellerLuigi_0
+  - first:
+      213: 1566848793227841026
+    second: ProbellerLuigi_1
+  - first:
+      213: -3708850314565886211
+    second: ProbellerLuigi_2
+  - first:
+      213: -8312176926277678514
+    second: ProbellerLuigi_3
+  - first:
+      213: 3883797019780592099
+    second: ProbellerLuigi_4
+  - first:
+      213: 3785006575774227693
+    second: ProbellerLuigi_5
+  - first:
+      213: 4391911441152764564
+    second: ProbellerLuigi_6
+  - first:
+      213: -3764785010921700200
+    second: ProbellerLuigi_7
+  - first:
+      213: 5748470889196523967
+    second: ProbellerLuigi_8
+  - first:
+      213: -27223807137441908
+    second: ProbellerLuigi_9
+  - first:
+      213: -6910205600471435032
+    second: ProbellerLuigi_10
+  - first:
+      213: 2079802318765441536
+    second: ProbellerLuigi_11
+  - first:
+      213: 4366612570082230891
+    second: ProbellerLuigi_12
+  - first:
+      213: -1829131436495312605
+    second: ProbellerLuigi_13
+  - first:
+      213: 7265545251856689339
+    second: ProbellerLuigi_14
+  - first:
+      213: -8115935966570335961
+    second: ProbellerLuigi_15
+  - first:
+      213: -7299035374980561397
+    second: ProbellerLuigi_16
+  - first:
+      213: 5594421672072666019
+    second: ProbellerLuigi_17
+  - first:
+      213: 4908159865049599269
+    second: ProbellerLuigi_18
+  - first:
+      213: -3418456581985350981
+    second: ProbellerLuigi_19
+  - first:
+      213: -4427764520966745338
+    second: ProbellerLuigi_20
+  - first:
+      213: -4742402116351477495
+    second: ProbellerLuigi_21
+  - first:
+      213: 6087630563807453715
+    second: ProbellerLuigi_22
+  - first:
+      213: 902069407045128873
+    second: ProbellerLuigi_23
+  - first:
+      213: 6940028565210993732
+    second: ProbellerLuigi_24
+  - first:
+      213: -2961483357165116924
+    second: ProbellerLuigi_25
+  - first:
+      213: -7146085607245046474
+    second: ProbellerLuigi_26
+  - first:
+      213: 8575867100456137909
+    second: ProbellerLuigi_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProbellerLuigi_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 89
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef548458777b735d0800000000000000
+      internalID: -3082793695946717698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 89
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e48190da09eb510800000000000000
+      internalID: 1566848793227841026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 89
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe543b0a44878cc0800000000000000
+      internalID: -3708850314565886211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 89
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a4507102735ac80800000000000000
+      internalID: -8312176926277678514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e13ebfefc406e530800000000000000
+      internalID: 3883797019780592099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 89
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec5a854d6b078430800000000000000
+      internalID: 3785006575774227693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 88
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a62e6bf2433fc30800000000000000
+      internalID: 4391911441152764564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 91
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8940c40bafbc0cbc0800000000000000
+      internalID: -3764785010921700200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 89
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb19b3821dba6cf40800000000000000
+      internalID: 5748470889196523967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 89
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87932677184f9ff0800000000000000
+      internalID: -27223807137441908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 89
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e83cf24e940a10a0800000000000000
+      internalID: -6910205600471435032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 89
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0024c0d8031fcdc10800000000000000
+      internalID: 2079802318765441536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 89
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62c1874ff2599c30800000000000000
+      internalID: 4366612570082230891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 89
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329623056ae9d96e0800000000000000
+      internalID: -1829131436495312605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8a17c79e664d460800000000000000
+      internalID: 7265545251856689339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72132cc0d376e5f80800000000000000
+      internalID: -8115935966570335961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0606479ffd94ba90800000000000000
+      internalID: -7299035374980561397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 48
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab53a7ced063ad40800000000000000
+      internalID: 5594421672072666019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 48
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d4c1984694d1440800000000000000
+      internalID: 4908159865049599269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbacaa6b9d33f80d0800000000000000
+      internalID: -3418456581985350981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60313b2a0ab6d82c0800000000000000
+      internalID: -4427764520966745338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 48
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9093fc8c66a9f2eb0800000000000000
+      internalID: -4742402116351477495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 48
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ed8f7ebb9b7450800000000000000
+      internalID: 6087630563807453715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 48
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a21ca9a85bc48c00800000000000000
+      internalID: 902069407045128873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 48
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4441770d53fef4060800000000000000
+      internalID: 6940028565210993732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40221f7c392b6e6d0800000000000000
+      internalID: -2961483357165116924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 30
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d90a5700104dc90800000000000000
+      internalID: -7146085607245046474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProbellerLuigi_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 89
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b5a3e0b9930770800000000000000
+      internalID: 8575867100456137909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
